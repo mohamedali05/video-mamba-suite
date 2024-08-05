@@ -1,0 +1,8 @@
+# Ignore all .npy files
+*.npy
+
+# Ignore all .mp4 files
+*.mp4
+
+# Ignore all .tar files
+*.tar

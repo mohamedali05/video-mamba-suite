@@ -117,8 +117,6 @@ class Mamba(nn.Module):
         # D "skip" parameter
         self.D = nn.Parameter(torch.ones(self.d_inner, device=device))  # Keep in fp32
         self.D._no_weight_decay = True
-
-
         self.out_proj = nn.Linear(self.d_inner * 2, self.d_model, bias=bias, **factory_kwargs)
 
     def python_mamba_inner_fn_no_out_proj(self, xz, A, conv_state, ssm_state, seqlen, conv1d, x_proj, dt_proj, D, use_pytorch_conv=False):

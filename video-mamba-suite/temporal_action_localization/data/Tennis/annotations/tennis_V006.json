@@ -1,0 +1,7127 @@
+{
+  "database": {
+    "V006": {
+      "subset": "train",
+      "duration": 4955.0,
+      "fps": 25.0,
+      "annotations": [
+        {
+          "label": "OTH",
+          "segment": [
+            1019.24,
+            1031.16
+          ],
+          "segment(frames)": [
+            25481,
+            25779
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            1031.2,
+            1034.24
+          ],
+          "segment(frames)": [
+            25780,
+            25856
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1034.28,
+            1035.08
+          ],
+          "segment(frames)": [
+            25857,
+            25877
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1035.12,
+            1035.4
+          ],
+          "segment(frames)": [
+            25878,
+            25885
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1035.44,
+            1036.4
+          ],
+          "segment(frames)": [
+            25886,
+            25910
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1036.44,
+            1036.56
+          ],
+          "segment(frames)": [
+            25911,
+            25914
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            1036.6,
+            1037.72
+          ],
+          "segment(frames)": [
+            25915,
+            25943
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1037.76,
+            1061.04
+          ],
+          "segment(frames)": [
+            25944,
+            26526
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            1061.08,
+            1064.56
+          ],
+          "segment(frames)": [
+            26527,
+            26614
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1064.6,
+            1083.8
+          ],
+          "segment(frames)": [
+            26615,
+            27095
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            1083.84,
+            1087.16
+          ],
+          "segment(frames)": [
+            27096,
+            27179
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1087.2,
+            1108.28
+          ],
+          "segment(frames)": [
+            27180,
+            27707
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            1108.32,
+            1111.12
+          ],
+          "segment(frames)": [
+            27708,
+            27778
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1111.16,
+            1119.0
+          ],
+          "segment(frames)": [
+            27779,
+            27975
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            1119.04,
+            1121.8
+          ],
+          "segment(frames)": [
+            27976,
+            28045
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1121.84,
+            1172.04
+          ],
+          "segment(frames)": [
+            28046,
+            29301
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            1172.08,
+            1174.56
+          ],
+          "segment(frames)": [
+            29302,
+            29364
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1174.6,
+            1189.12
+          ],
+          "segment(frames)": [
+            29365,
+            29728
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            1189.16,
+            1191.64
+          ],
+          "segment(frames)": [
+            29729,
+            29791
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1191.68,
+            1227.96
+          ],
+          "segment(frames)": [
+            29792,
+            30699
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            1228.0,
+            1229.92
+          ],
+          "segment(frames)": [
+            30700,
+            30748
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            1229.96,
+            1230.72
+          ],
+          "segment(frames)": [
+            30749,
+            30768
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1230.76,
+            1230.88
+          ],
+          "segment(frames)": [
+            30769,
+            30772
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1230.92,
+            1232.0
+          ],
+          "segment(frames)": [
+            30773,
+            30800
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1232.04,
+            1232.12
+          ],
+          "segment(frames)": [
+            30801,
+            30803
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1232.16,
+            1233.08
+          ],
+          "segment(frames)": [
+            30804,
+            30827
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1233.12,
+            1233.24
+          ],
+          "segment(frames)": [
+            30828,
+            30831
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1233.28,
+            1234.48
+          ],
+          "segment(frames)": [
+            30832,
+            30862
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1234.52,
+            1256.6
+          ],
+          "segment(frames)": [
+            30863,
+            31415
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            1256.64,
+            1260.36
+          ],
+          "segment(frames)": [
+            31416,
+            31509
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1260.4,
+            1274.76
+          ],
+          "segment(frames)": [
+            31510,
+            31869
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            1274.8,
+            1276.6
+          ],
+          "segment(frames)": [
+            31870,
+            31915
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            1276.64,
+            1277.28
+          ],
+          "segment(frames)": [
+            31916,
+            31932
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1277.32,
+            1277.52
+          ],
+          "segment(frames)": [
+            31933,
+            31938
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1277.56,
+            1278.72
+          ],
+          "segment(frames)": [
+            31939,
+            31968
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1278.76,
+            1305.24
+          ],
+          "segment(frames)": [
+            31969,
+            32631
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            1305.28,
+            1308.96
+          ],
+          "segment(frames)": [
+            32632,
+            32724
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1309.0,
+            1309.72
+          ],
+          "segment(frames)": [
+            32725,
+            32743
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1309.76,
+            1309.88
+          ],
+          "segment(frames)": [
+            32744,
+            32747
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1309.92,
+            1310.6
+          ],
+          "segment(frames)": [
+            32748,
+            32765
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1310.64,
+            1310.92
+          ],
+          "segment(frames)": [
+            32766,
+            32773
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1310.96,
+            1312.24
+          ],
+          "segment(frames)": [
+            32774,
+            32806
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1312.28,
+            1348.44
+          ],
+          "segment(frames)": [
+            32807,
+            33711
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            1348.48,
+            1351.08
+          ],
+          "segment(frames)": [
+            33712,
+            33777
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1351.12,
+            1351.8
+          ],
+          "segment(frames)": [
+            33778,
+            33795
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1351.84,
+            1351.96
+          ],
+          "segment(frames)": [
+            33796,
+            33799
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1352.0,
+            1353.76
+          ],
+          "segment(frames)": [
+            33800,
+            33844
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1353.8,
+            1376.36
+          ],
+          "segment(frames)": [
+            33845,
+            34409
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            1376.4,
+            1378.28
+          ],
+          "segment(frames)": [
+            34410,
+            34457
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1378.32,
+            1391.12
+          ],
+          "segment(frames)": [
+            34458,
+            34778
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            1391.16,
+            1393.84
+          ],
+          "segment(frames)": [
+            34779,
+            34846
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1393.88,
+            1394.92
+          ],
+          "segment(frames)": [
+            34847,
+            34873
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1394.96,
+            1395.16
+          ],
+          "segment(frames)": [
+            34874,
+            34879
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1395.2,
+            1396.36
+          ],
+          "segment(frames)": [
+            34880,
+            34909
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1396.4,
+            1396.52
+          ],
+          "segment(frames)": [
+            34910,
+            34913
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1396.56,
+            1397.96
+          ],
+          "segment(frames)": [
+            34914,
+            34949
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1398.0,
+            1398.12
+          ],
+          "segment(frames)": [
+            34950,
+            34953
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1398.16,
+            1399.04
+          ],
+          "segment(frames)": [
+            34954,
+            34976
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1399.08,
+            1399.12
+          ],
+          "segment(frames)": [
+            34977,
+            34978
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1399.16,
+            1400.36
+          ],
+          "segment(frames)": [
+            34979,
+            35009
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1400.4,
+            1400.44
+          ],
+          "segment(frames)": [
+            35010,
+            35011
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            1400.48,
+            1401.56
+          ],
+          "segment(frames)": [
+            35012,
+            35039
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1401.6,
+            1401.68
+          ],
+          "segment(frames)": [
+            35040,
+            35042
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1401.72,
+            1403.28
+          ],
+          "segment(frames)": [
+            35043,
+            35082
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1403.32,
+            1403.36
+          ],
+          "segment(frames)": [
+            35083,
+            35084
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1403.4,
+            1404.6
+          ],
+          "segment(frames)": [
+            35085,
+            35115
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1404.64,
+            1404.68
+          ],
+          "segment(frames)": [
+            35116,
+            35117
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1404.72,
+            1406.16
+          ],
+          "segment(frames)": [
+            35118,
+            35154
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1406.2,
+            1406.28
+          ],
+          "segment(frames)": [
+            35155,
+            35157
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            1406.32,
+            1407.72
+          ],
+          "segment(frames)": [
+            35158,
+            35193
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1407.76,
+            1441.76
+          ],
+          "segment(frames)": [
+            35194,
+            36044
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            1441.8,
+            1444.48
+          ],
+          "segment(frames)": [
+            36045,
+            36112
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1444.52,
+            1445.32
+          ],
+          "segment(frames)": [
+            36113,
+            36133
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1445.36,
+            1445.48
+          ],
+          "segment(frames)": [
+            36134,
+            36137
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            1445.52,
+            1446.48
+          ],
+          "segment(frames)": [
+            36138,
+            36162
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1446.52,
+            1446.6
+          ],
+          "segment(frames)": [
+            36163,
+            36165
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1446.64,
+            1447.72
+          ],
+          "segment(frames)": [
+            36166,
+            36193
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1447.76,
+            1470.56
+          ],
+          "segment(frames)": [
+            36194,
+            36764
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            1470.6,
+            1473.24
+          ],
+          "segment(frames)": [
+            36765,
+            36831
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1473.28,
+            1500.56
+          ],
+          "segment(frames)": [
+            36832,
+            37514
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            1500.6,
+            1502.36
+          ],
+          "segment(frames)": [
+            37515,
+            37559
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1502.4,
+            1503.04
+          ],
+          "segment(frames)": [
+            37560,
+            37576
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1503.08,
+            1503.16
+          ],
+          "segment(frames)": [
+            37577,
+            37579
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1503.2,
+            1504.36
+          ],
+          "segment(frames)": [
+            37580,
+            37609
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1504.4,
+            1504.44
+          ],
+          "segment(frames)": [
+            37610,
+            37611
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1504.48,
+            1505.72
+          ],
+          "segment(frames)": [
+            37612,
+            37643
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1505.76,
+            1505.84
+          ],
+          "segment(frames)": [
+            37644,
+            37646
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            1505.88,
+            1506.84
+          ],
+          "segment(frames)": [
+            37647,
+            37671
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1506.88,
+            1507.0
+          ],
+          "segment(frames)": [
+            37672,
+            37675
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1507.04,
+            1508.44
+          ],
+          "segment(frames)": [
+            37676,
+            37711
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1508.48,
+            1508.6
+          ],
+          "segment(frames)": [
+            37712,
+            37715
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            1508.64,
+            1509.72
+          ],
+          "segment(frames)": [
+            37716,
+            37743
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1509.76,
+            1509.88
+          ],
+          "segment(frames)": [
+            37744,
+            37747
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1509.92,
+            1511.4
+          ],
+          "segment(frames)": [
+            37748,
+            37785
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1511.44,
+            1511.68
+          ],
+          "segment(frames)": [
+            37786,
+            37792
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            1511.72,
+            1512.92
+          ],
+          "segment(frames)": [
+            37793,
+            37823
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1512.96,
+            1513.0
+          ],
+          "segment(frames)": [
+            37824,
+            37825
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1513.04,
+            1514.2
+          ],
+          "segment(frames)": [
+            37826,
+            37855
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1514.24,
+            1514.28
+          ],
+          "segment(frames)": [
+            37856,
+            37857
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            1514.32,
+            1515.48
+          ],
+          "segment(frames)": [
+            37858,
+            37887
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1515.52,
+            1515.6
+          ],
+          "segment(frames)": [
+            37888,
+            37890
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1515.64,
+            1516.84
+          ],
+          "segment(frames)": [
+            37891,
+            37921
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1516.88,
+            1517.04
+          ],
+          "segment(frames)": [
+            37922,
+            37926
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1517.08,
+            1518.44
+          ],
+          "segment(frames)": [
+            37927,
+            37961
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1518.48,
+            1550.76
+          ],
+          "segment(frames)": [
+            37962,
+            38769
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            1550.8,
+            1554.0
+          ],
+          "segment(frames)": [
+            38770,
+            38850
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1554.04,
+            1656.08
+          ],
+          "segment(frames)": [
+            38851,
+            41402
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            1656.12,
+            1658.0
+          ],
+          "segment(frames)": [
+            41403,
+            41450
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1658.04,
+            1658.8
+          ],
+          "segment(frames)": [
+            41451,
+            41470
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1658.84,
+            1659.0
+          ],
+          "segment(frames)": [
+            41471,
+            41475
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1659.04,
+            1660.08
+          ],
+          "segment(frames)": [
+            41476,
+            41502
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1660.12,
+            1660.32
+          ],
+          "segment(frames)": [
+            41503,
+            41508
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1660.36,
+            1661.84
+          ],
+          "segment(frames)": [
+            41509,
+            41546
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1661.88,
+            1661.92
+          ],
+          "segment(frames)": [
+            41547,
+            41548
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            1661.96,
+            1663.08
+          ],
+          "segment(frames)": [
+            41549,
+            41577
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1663.12,
+            1663.16
+          ],
+          "segment(frames)": [
+            41578,
+            41579
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1663.2,
+            1664.48
+          ],
+          "segment(frames)": [
+            41580,
+            41612
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1664.52,
+            1689.68
+          ],
+          "segment(frames)": [
+            41613,
+            42242
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            1689.72,
+            1692.24
+          ],
+          "segment(frames)": [
+            42243,
+            42306
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1692.28,
+            1714.56
+          ],
+          "segment(frames)": [
+            42307,
+            42864
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            1714.6,
+            1716.68
+          ],
+          "segment(frames)": [
+            42865,
+            42917
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1716.72,
+            1717.56
+          ],
+          "segment(frames)": [
+            42918,
+            42939
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1717.6,
+            1728.2
+          ],
+          "segment(frames)": [
+            42940,
+            43205
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            1728.24,
+            1731.8
+          ],
+          "segment(frames)": [
+            43206,
+            43295
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1731.84,
+            1732.68
+          ],
+          "segment(frames)": [
+            43296,
+            43317
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1732.72,
+            1732.76
+          ],
+          "segment(frames)": [
+            43318,
+            43319
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1732.8,
+            1733.6
+          ],
+          "segment(frames)": [
+            43320,
+            43340
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1733.64,
+            1733.68
+          ],
+          "segment(frames)": [
+            43341,
+            43342
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1733.72,
+            1734.84
+          ],
+          "segment(frames)": [
+            43343,
+            43371
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1734.88,
+            1734.96
+          ],
+          "segment(frames)": [
+            43372,
+            43374
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1735.0,
+            1736.0
+          ],
+          "segment(frames)": [
+            43375,
+            43400
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1736.04,
+            1736.24
+          ],
+          "segment(frames)": [
+            43401,
+            43406
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1736.28,
+            1737.4
+          ],
+          "segment(frames)": [
+            43407,
+            43435
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1737.44,
+            1764.08
+          ],
+          "segment(frames)": [
+            43436,
+            44102
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            1764.12,
+            1766.56
+          ],
+          "segment(frames)": [
+            44103,
+            44164
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1766.6,
+            1767.28
+          ],
+          "segment(frames)": [
+            44165,
+            44182
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1767.32,
+            1767.4
+          ],
+          "segment(frames)": [
+            44183,
+            44185
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1767.44,
+            1769.08
+          ],
+          "segment(frames)": [
+            44186,
+            44227
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1769.12,
+            1769.12
+          ],
+          "segment(frames)": [
+            44228,
+            44228
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1769.16,
+            1770.32
+          ],
+          "segment(frames)": [
+            44229,
+            44258
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1770.36,
+            1795.0
+          ],
+          "segment(frames)": [
+            44259,
+            44875
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            1795.04,
+            1797.04
+          ],
+          "segment(frames)": [
+            44876,
+            44926
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1797.08,
+            1797.8
+          ],
+          "segment(frames)": [
+            44927,
+            44945
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1797.84,
+            1797.96
+          ],
+          "segment(frames)": [
+            44946,
+            44949
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1798.0,
+            1798.76
+          ],
+          "segment(frames)": [
+            44950,
+            44969
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1798.8,
+            1799.0
+          ],
+          "segment(frames)": [
+            44970,
+            44975
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1799.04,
+            1800.36
+          ],
+          "segment(frames)": [
+            44976,
+            45009
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1800.4,
+            1800.48
+          ],
+          "segment(frames)": [
+            45010,
+            45012
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            1800.52,
+            1801.84
+          ],
+          "segment(frames)": [
+            45013,
+            45046
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1801.88,
+            1827.68
+          ],
+          "segment(frames)": [
+            45047,
+            45692
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            1827.72,
+            1830.96
+          ],
+          "segment(frames)": [
+            45693,
+            45774
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1831.0,
+            1852.36
+          ],
+          "segment(frames)": [
+            45775,
+            46309
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            1852.4,
+            1855.76
+          ],
+          "segment(frames)": [
+            46310,
+            46394
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1855.8,
+            1879.52
+          ],
+          "segment(frames)": [
+            46395,
+            46988
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            1879.56,
+            1883.2
+          ],
+          "segment(frames)": [
+            46989,
+            47080
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1883.24,
+            1883.96
+          ],
+          "segment(frames)": [
+            47081,
+            47099
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1884.0,
+            1884.04
+          ],
+          "segment(frames)": [
+            47100,
+            47101
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            1884.08,
+            1884.92
+          ],
+          "segment(frames)": [
+            47102,
+            47123
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1884.96,
+            1885.12
+          ],
+          "segment(frames)": [
+            47124,
+            47128
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1885.16,
+            1886.52
+          ],
+          "segment(frames)": [
+            47129,
+            47163
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1886.56,
+            1886.6
+          ],
+          "segment(frames)": [
+            47164,
+            47165
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1886.64,
+            1887.72
+          ],
+          "segment(frames)": [
+            47166,
+            47193
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1887.76,
+            1916.32
+          ],
+          "segment(frames)": [
+            47194,
+            47908
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            1916.36,
+            1918.16
+          ],
+          "segment(frames)": [
+            47909,
+            47954
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1918.2,
+            1919.16
+          ],
+          "segment(frames)": [
+            47955,
+            47979
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1919.2,
+            1928.84
+          ],
+          "segment(frames)": [
+            47980,
+            48221
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            1928.88,
+            1932.64
+          ],
+          "segment(frames)": [
+            48222,
+            48316
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1932.68,
+            1933.64
+          ],
+          "segment(frames)": [
+            48317,
+            48341
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1933.68,
+            1933.68
+          ],
+          "segment(frames)": [
+            48342,
+            48342
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            1933.72,
+            1934.84
+          ],
+          "segment(frames)": [
+            48343,
+            48371
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1934.88,
+            1934.92
+          ],
+          "segment(frames)": [
+            48372,
+            48373
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            1934.96,
+            1936.12
+          ],
+          "segment(frames)": [
+            48374,
+            48403
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1936.16,
+            1971.28
+          ],
+          "segment(frames)": [
+            48404,
+            49282
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            1971.32,
+            1973.04
+          ],
+          "segment(frames)": [
+            49283,
+            49326
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1973.08,
+            1973.88
+          ],
+          "segment(frames)": [
+            49327,
+            49347
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1973.92,
+            1987.6
+          ],
+          "segment(frames)": [
+            49348,
+            49690
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            1987.64,
+            1989.48
+          ],
+          "segment(frames)": [
+            49691,
+            49737
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            1989.52,
+            1990.36
+          ],
+          "segment(frames)": [
+            49738,
+            49759
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1990.4,
+            1990.48
+          ],
+          "segment(frames)": [
+            49760,
+            49762
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            1990.52,
+            1991.44
+          ],
+          "segment(frames)": [
+            49763,
+            49786
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            1991.48,
+            2024.88
+          ],
+          "segment(frames)": [
+            49787,
+            50622
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            2024.92,
+            2025.76
+          ],
+          "segment(frames)": [
+            50623,
+            50644
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            2025.8,
+            2026.36
+          ],
+          "segment(frames)": [
+            50645,
+            50659
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2026.4,
+            2026.48
+          ],
+          "segment(frames)": [
+            50660,
+            50662
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            2026.52,
+            2027.6
+          ],
+          "segment(frames)": [
+            50663,
+            50690
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2027.64,
+            2027.68
+          ],
+          "segment(frames)": [
+            50691,
+            50692
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            2027.72,
+            2029.0
+          ],
+          "segment(frames)": [
+            50693,
+            50725
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2029.04,
+            2072.44
+          ],
+          "segment(frames)": [
+            50726,
+            51811
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            2072.48,
+            2073.52
+          ],
+          "segment(frames)": [
+            51812,
+            51838
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            2073.56,
+            2074.2
+          ],
+          "segment(frames)": [
+            51839,
+            51855
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2074.24,
+            2074.4
+          ],
+          "segment(frames)": [
+            51856,
+            51860
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            2074.44,
+            2075.48
+          ],
+          "segment(frames)": [
+            51861,
+            51887
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2075.52,
+            2075.64
+          ],
+          "segment(frames)": [
+            51888,
+            51891
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            2075.68,
+            2077.12
+          ],
+          "segment(frames)": [
+            51892,
+            51928
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2077.16,
+            2093.08
+          ],
+          "segment(frames)": [
+            51929,
+            52327
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            2093.12,
+            2095.0
+          ],
+          "segment(frames)": [
+            52328,
+            52375
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            2095.04,
+            2095.96
+          ],
+          "segment(frames)": [
+            52376,
+            52399
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2096.0,
+            2116.52
+          ],
+          "segment(frames)": [
+            52400,
+            52913
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            2116.56,
+            2119.68
+          ],
+          "segment(frames)": [
+            52914,
+            52992
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2119.72,
+            2146.08
+          ],
+          "segment(frames)": [
+            52993,
+            53652
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            2146.12,
+            2148.52
+          ],
+          "segment(frames)": [
+            53653,
+            53713
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2148.56,
+            2166.08
+          ],
+          "segment(frames)": [
+            53714,
+            54152
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            2166.12,
+            2168.16
+          ],
+          "segment(frames)": [
+            54153,
+            54204
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            2168.2,
+            2169.04
+          ],
+          "segment(frames)": [
+            54205,
+            54226
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2169.08,
+            2169.16
+          ],
+          "segment(frames)": [
+            54227,
+            54229
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            2169.2,
+            2170.28
+          ],
+          "segment(frames)": [
+            54230,
+            54257
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2170.32,
+            2170.44
+          ],
+          "segment(frames)": [
+            54258,
+            54261
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            2170.48,
+            2171.64
+          ],
+          "segment(frames)": [
+            54262,
+            54291
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2171.68,
+            2212.12
+          ],
+          "segment(frames)": [
+            54292,
+            55303
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            2212.16,
+            2215.16
+          ],
+          "segment(frames)": [
+            55304,
+            55379
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2215.2,
+            2250.24
+          ],
+          "segment(frames)": [
+            55380,
+            56256
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            2250.28,
+            2253.52
+          ],
+          "segment(frames)": [
+            56257,
+            56338
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2253.56,
+            2281.52
+          ],
+          "segment(frames)": [
+            56339,
+            57038
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            2281.56,
+            2283.96
+          ],
+          "segment(frames)": [
+            57039,
+            57099
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2284.0,
+            2397.84
+          ],
+          "segment(frames)": [
+            57100,
+            59946
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            2397.88,
+            2400.4
+          ],
+          "segment(frames)": [
+            59947,
+            60010
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            2400.44,
+            2401.16
+          ],
+          "segment(frames)": [
+            60011,
+            60029
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2401.2,
+            2401.32
+          ],
+          "segment(frames)": [
+            60030,
+            60033
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            2401.36,
+            2402.68
+          ],
+          "segment(frames)": [
+            60034,
+            60067
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2402.72,
+            2402.88
+          ],
+          "segment(frames)": [
+            60068,
+            60072
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            2402.92,
+            2404.2
+          ],
+          "segment(frames)": [
+            60073,
+            60105
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2404.24,
+            2432.24
+          ],
+          "segment(frames)": [
+            60106,
+            60806
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            2432.28,
+            2435.4
+          ],
+          "segment(frames)": [
+            60807,
+            60885
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            2435.44,
+            2436.28
+          ],
+          "segment(frames)": [
+            60886,
+            60907
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2436.32,
+            2460.36
+          ],
+          "segment(frames)": [
+            60908,
+            61509
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            2460.4,
+            2462.68
+          ],
+          "segment(frames)": [
+            61510,
+            61567
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            2462.72,
+            2463.28
+          ],
+          "segment(frames)": [
+            61568,
+            61582
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2463.32,
+            2463.36
+          ],
+          "segment(frames)": [
+            61583,
+            61584
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            2463.4,
+            2464.48
+          ],
+          "segment(frames)": [
+            61585,
+            61612
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2464.52,
+            2464.56
+          ],
+          "segment(frames)": [
+            61613,
+            61614
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            2464.6,
+            2465.68
+          ],
+          "segment(frames)": [
+            61615,
+            61642
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2465.72,
+            2490.88
+          ],
+          "segment(frames)": [
+            61643,
+            62272
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            2490.92,
+            2492.36
+          ],
+          "segment(frames)": [
+            62273,
+            62309
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2492.4,
+            2515.6
+          ],
+          "segment(frames)": [
+            62310,
+            62890
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            2515.64,
+            2518.12
+          ],
+          "segment(frames)": [
+            62891,
+            62953
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            2518.16,
+            2518.96
+          ],
+          "segment(frames)": [
+            62954,
+            62974
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2519.0,
+            2519.04
+          ],
+          "segment(frames)": [
+            62975,
+            62976
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            2519.08,
+            2520.04
+          ],
+          "segment(frames)": [
+            62977,
+            63001
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2520.08,
+            2548.08
+          ],
+          "segment(frames)": [
+            63002,
+            63702
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            2548.12,
+            2550.36
+          ],
+          "segment(frames)": [
+            63703,
+            63759
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2550.4,
+            2565.96
+          ],
+          "segment(frames)": [
+            63760,
+            64149
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            2566.0,
+            2568.0
+          ],
+          "segment(frames)": [
+            64150,
+            64200
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            2568.04,
+            2568.68
+          ],
+          "segment(frames)": [
+            64201,
+            64217
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2568.72,
+            2603.92
+          ],
+          "segment(frames)": [
+            64218,
+            65098
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            2603.96,
+            2606.12
+          ],
+          "segment(frames)": [
+            65099,
+            65153
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            2606.16,
+            2606.96
+          ],
+          "segment(frames)": [
+            65154,
+            65174
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2607.0,
+            2607.08
+          ],
+          "segment(frames)": [
+            65175,
+            65177
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            2607.12,
+            2608.2
+          ],
+          "segment(frames)": [
+            65178,
+            65205
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2608.24,
+            2608.28
+          ],
+          "segment(frames)": [
+            65206,
+            65207
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            2608.32,
+            2609.4
+          ],
+          "segment(frames)": [
+            65208,
+            65235
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2609.44,
+            2609.48
+          ],
+          "segment(frames)": [
+            65236,
+            65237
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            2609.52,
+            2610.52
+          ],
+          "segment(frames)": [
+            65238,
+            65263
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2610.56,
+            2637.96
+          ],
+          "segment(frames)": [
+            65264,
+            65949
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            2638.0,
+            2639.72
+          ],
+          "segment(frames)": [
+            65950,
+            65993
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            2639.76,
+            2640.8
+          ],
+          "segment(frames)": [
+            65994,
+            66020
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2640.84,
+            2640.96
+          ],
+          "segment(frames)": [
+            66021,
+            66024
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            2641.0,
+            2642.0
+          ],
+          "segment(frames)": [
+            66025,
+            66050
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2642.04,
+            2642.12
+          ],
+          "segment(frames)": [
+            66051,
+            66053
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            2642.16,
+            2643.4
+          ],
+          "segment(frames)": [
+            66054,
+            66085
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2643.44,
+            2643.52
+          ],
+          "segment(frames)": [
+            66086,
+            66088
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            2643.56,
+            2644.52
+          ],
+          "segment(frames)": [
+            66089,
+            66113
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2644.56,
+            2644.64
+          ],
+          "segment(frames)": [
+            66114,
+            66116
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            2644.68,
+            2646.28
+          ],
+          "segment(frames)": [
+            66117,
+            66157
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2646.32,
+            2646.4
+          ],
+          "segment(frames)": [
+            66158,
+            66160
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            2646.44,
+            2647.68
+          ],
+          "segment(frames)": [
+            66161,
+            66192
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2647.72,
+            2647.8
+          ],
+          "segment(frames)": [
+            66193,
+            66195
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            2647.84,
+            2649.04
+          ],
+          "segment(frames)": [
+            66196,
+            66226
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2649.08,
+            2649.16
+          ],
+          "segment(frames)": [
+            66227,
+            66229
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            2649.2,
+            2650.44
+          ],
+          "segment(frames)": [
+            66230,
+            66261
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2650.48,
+            2650.6
+          ],
+          "segment(frames)": [
+            66262,
+            66265
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            2650.64,
+            2651.92
+          ],
+          "segment(frames)": [
+            66266,
+            66298
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2651.96,
+            2652.08
+          ],
+          "segment(frames)": [
+            66299,
+            66302
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            2652.12,
+            2653.56
+          ],
+          "segment(frames)": [
+            66303,
+            66339
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2653.6,
+            2653.76
+          ],
+          "segment(frames)": [
+            66340,
+            66344
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            2653.8,
+            2655.28
+          ],
+          "segment(frames)": [
+            66345,
+            66382
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2655.32,
+            2655.36
+          ],
+          "segment(frames)": [
+            66383,
+            66384
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            2655.4,
+            2657.12
+          ],
+          "segment(frames)": [
+            66385,
+            66428
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2657.16,
+            2708.08
+          ],
+          "segment(frames)": [
+            66429,
+            67702
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            2708.12,
+            2710.56
+          ],
+          "segment(frames)": [
+            67703,
+            67764
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            2710.6,
+            2711.24
+          ],
+          "segment(frames)": [
+            67765,
+            67781
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2711.28,
+            2728.8
+          ],
+          "segment(frames)": [
+            67782,
+            68220
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            2728.84,
+            2732.16
+          ],
+          "segment(frames)": [
+            68221,
+            68304
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2732.2,
+            2762.68
+          ],
+          "segment(frames)": [
+            68305,
+            69067
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            2762.72,
+            2764.48
+          ],
+          "segment(frames)": [
+            69068,
+            69112
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            2764.52,
+            2765.28
+          ],
+          "segment(frames)": [
+            69113,
+            69132
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2765.32,
+            2765.4
+          ],
+          "segment(frames)": [
+            69133,
+            69135
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            2765.44,
+            2766.56
+          ],
+          "segment(frames)": [
+            69136,
+            69164
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2766.6,
+            2766.64
+          ],
+          "segment(frames)": [
+            69165,
+            69166
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            2766.68,
+            2767.72
+          ],
+          "segment(frames)": [
+            69167,
+            69193
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2767.76,
+            2767.84
+          ],
+          "segment(frames)": [
+            69194,
+            69196
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            2767.88,
+            2769.12
+          ],
+          "segment(frames)": [
+            69197,
+            69228
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2769.16,
+            2769.2
+          ],
+          "segment(frames)": [
+            69229,
+            69230
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            2769.24,
+            2770.4
+          ],
+          "segment(frames)": [
+            69231,
+            69260
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2770.44,
+            2770.52
+          ],
+          "segment(frames)": [
+            69261,
+            69263
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            2770.56,
+            2771.84
+          ],
+          "segment(frames)": [
+            69264,
+            69296
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2771.88,
+            2771.92
+          ],
+          "segment(frames)": [
+            69297,
+            69298
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            2771.96,
+            2773.0
+          ],
+          "segment(frames)": [
+            69299,
+            69325
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2773.04,
+            2773.08
+          ],
+          "segment(frames)": [
+            69326,
+            69327
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            2773.12,
+            2774.32
+          ],
+          "segment(frames)": [
+            69328,
+            69358
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2774.36,
+            2774.4
+          ],
+          "segment(frames)": [
+            69359,
+            69360
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            2774.44,
+            2775.68
+          ],
+          "segment(frames)": [
+            69361,
+            69392
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2775.72,
+            2810.92
+          ],
+          "segment(frames)": [
+            69393,
+            70273
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            2810.96,
+            2811.84
+          ],
+          "segment(frames)": [
+            70274,
+            70296
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            2811.88,
+            2812.6
+          ],
+          "segment(frames)": [
+            70297,
+            70315
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2812.64,
+            2833.0
+          ],
+          "segment(frames)": [
+            70316,
+            70825
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            2833.04,
+            2834.6
+          ],
+          "segment(frames)": [
+            70826,
+            70865
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            2834.64,
+            2835.72
+          ],
+          "segment(frames)": [
+            70866,
+            70893
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2835.76,
+            2835.84
+          ],
+          "segment(frames)": [
+            70894,
+            70896
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            2835.88,
+            2837.28
+          ],
+          "segment(frames)": [
+            70897,
+            70932
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2837.32,
+            2837.36
+          ],
+          "segment(frames)": [
+            70933,
+            70934
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            2837.4,
+            2838.4
+          ],
+          "segment(frames)": [
+            70935,
+            70960
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2838.44,
+            2838.52
+          ],
+          "segment(frames)": [
+            70961,
+            70963
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            2838.56,
+            2839.88
+          ],
+          "segment(frames)": [
+            70964,
+            70997
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2839.92,
+            2839.96
+          ],
+          "segment(frames)": [
+            70998,
+            70999
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            2840.0,
+            2840.96
+          ],
+          "segment(frames)": [
+            71000,
+            71024
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2841.0,
+            2841.0
+          ],
+          "segment(frames)": [
+            71025,
+            71025
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            2841.04,
+            2841.72
+          ],
+          "segment(frames)": [
+            71026,
+            71043
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2841.76,
+            2841.84
+          ],
+          "segment(frames)": [
+            71044,
+            71046
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            2841.88,
+            2843.32
+          ],
+          "segment(frames)": [
+            71047,
+            71083
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2843.36,
+            2843.44
+          ],
+          "segment(frames)": [
+            71084,
+            71086
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            2843.48,
+            2844.44
+          ],
+          "segment(frames)": [
+            71087,
+            71111
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2844.48,
+            2983.16
+          ],
+          "segment(frames)": [
+            71112,
+            74579
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            2983.2,
+            2986.52
+          ],
+          "segment(frames)": [
+            74580,
+            74663
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            2986.56,
+            3008.52
+          ],
+          "segment(frames)": [
+            74664,
+            75213
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            3008.56,
+            3010.24
+          ],
+          "segment(frames)": [
+            75214,
+            75256
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3010.28,
+            3011.2
+          ],
+          "segment(frames)": [
+            75257,
+            75280
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3011.24,
+            3031.76
+          ],
+          "segment(frames)": [
+            75281,
+            75794
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            3031.8,
+            3034.28
+          ],
+          "segment(frames)": [
+            75795,
+            75857
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            3034.32,
+            3035.12
+          ],
+          "segment(frames)": [
+            75858,
+            75878
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3035.16,
+            3035.2
+          ],
+          "segment(frames)": [
+            75879,
+            75880
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            3035.24,
+            3037.04
+          ],
+          "segment(frames)": [
+            75881,
+            75926
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3037.08,
+            3037.08
+          ],
+          "segment(frames)": [
+            75927,
+            75927
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            3037.12,
+            3038.2
+          ],
+          "segment(frames)": [
+            75928,
+            75955
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3038.24,
+            3038.28
+          ],
+          "segment(frames)": [
+            75956,
+            75957
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            3038.32,
+            3039.44
+          ],
+          "segment(frames)": [
+            75958,
+            75986
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3039.48,
+            3065.48
+          ],
+          "segment(frames)": [
+            75987,
+            76637
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            3065.52,
+            3068.48
+          ],
+          "segment(frames)": [
+            76638,
+            76712
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3068.52,
+            3078.12
+          ],
+          "segment(frames)": [
+            76713,
+            76953
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            3078.16,
+            3080.76
+          ],
+          "segment(frames)": [
+            76954,
+            77019
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            3080.8,
+            3081.96
+          ],
+          "segment(frames)": [
+            77020,
+            77049
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3082.0,
+            3082.08
+          ],
+          "segment(frames)": [
+            77050,
+            77052
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            3082.12,
+            3083.48
+          ],
+          "segment(frames)": [
+            77053,
+            77087
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3083.52,
+            3109.04
+          ],
+          "segment(frames)": [
+            77088,
+            77726
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            3109.08,
+            3111.4
+          ],
+          "segment(frames)": [
+            77727,
+            77785
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3111.44,
+            3112.44
+          ],
+          "segment(frames)": [
+            77786,
+            77811
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3112.48,
+            3171.24
+          ],
+          "segment(frames)": [
+            77812,
+            79281
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            3171.28,
+            3174.32
+          ],
+          "segment(frames)": [
+            79282,
+            79358
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3174.36,
+            3185.8
+          ],
+          "segment(frames)": [
+            79359,
+            79645
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            3185.84,
+            3188.92
+          ],
+          "segment(frames)": [
+            79646,
+            79723
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            3188.96,
+            3189.68
+          ],
+          "segment(frames)": [
+            79724,
+            79742
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3189.72,
+            3215.44
+          ],
+          "segment(frames)": [
+            79743,
+            80386
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            3215.48,
+            3217.68
+          ],
+          "segment(frames)": [
+            80387,
+            80442
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3217.72,
+            3218.52
+          ],
+          "segment(frames)": [
+            80443,
+            80463
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3218.56,
+            3218.6
+          ],
+          "segment(frames)": [
+            80464,
+            80465
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            3218.64,
+            3219.68
+          ],
+          "segment(frames)": [
+            80466,
+            80492
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3219.72,
+            3219.84
+          ],
+          "segment(frames)": [
+            80493,
+            80496
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3219.88,
+            3220.84
+          ],
+          "segment(frames)": [
+            80497,
+            80521
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3220.88,
+            3245.48
+          ],
+          "segment(frames)": [
+            80522,
+            81137
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            3245.52,
+            3246.64
+          ],
+          "segment(frames)": [
+            81138,
+            81166
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3246.68,
+            3247.36
+          ],
+          "segment(frames)": [
+            81167,
+            81184
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3247.4,
+            3247.48
+          ],
+          "segment(frames)": [
+            81185,
+            81187
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            3247.52,
+            3248.32
+          ],
+          "segment(frames)": [
+            81188,
+            81208
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3248.36,
+            3271.8
+          ],
+          "segment(frames)": [
+            81209,
+            81795
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            3271.84,
+            3273.76
+          ],
+          "segment(frames)": [
+            81796,
+            81844
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3273.8,
+            3274.52
+          ],
+          "segment(frames)": [
+            81845,
+            81863
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3274.56,
+            3274.64
+          ],
+          "segment(frames)": [
+            81864,
+            81866
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            3274.68,
+            3275.6
+          ],
+          "segment(frames)": [
+            81867,
+            81890
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3275.64,
+            3303.72
+          ],
+          "segment(frames)": [
+            81891,
+            82593
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            3303.76,
+            3304.88
+          ],
+          "segment(frames)": [
+            82594,
+            82622
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            3304.92,
+            3305.6
+          ],
+          "segment(frames)": [
+            82623,
+            82640
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3305.64,
+            3318.32
+          ],
+          "segment(frames)": [
+            82641,
+            82958
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            3318.36,
+            3320.2
+          ],
+          "segment(frames)": [
+            82959,
+            83005
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3320.24,
+            3321.36
+          ],
+          "segment(frames)": [
+            83006,
+            83034
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3321.4,
+            3363.08
+          ],
+          "segment(frames)": [
+            83035,
+            84077
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            3363.12,
+            3365.88
+          ],
+          "segment(frames)": [
+            84078,
+            84147
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            3365.92,
+            3366.64
+          ],
+          "segment(frames)": [
+            84148,
+            84166
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3366.68,
+            3384.88
+          ],
+          "segment(frames)": [
+            84167,
+            84622
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            3384.92,
+            3387.8
+          ],
+          "segment(frames)": [
+            84623,
+            84695
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            3387.84,
+            3388.48
+          ],
+          "segment(frames)": [
+            84696,
+            84712
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3388.52,
+            3388.56
+          ],
+          "segment(frames)": [
+            84713,
+            84714
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            3388.6,
+            3389.84
+          ],
+          "segment(frames)": [
+            84715,
+            84746
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3389.88,
+            3389.96
+          ],
+          "segment(frames)": [
+            84747,
+            84749
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            3390.0,
+            3391.12
+          ],
+          "segment(frames)": [
+            84750,
+            84778
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3391.16,
+            3410.96
+          ],
+          "segment(frames)": [
+            84779,
+            85274
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            3411.0,
+            3413.64
+          ],
+          "segment(frames)": [
+            85275,
+            85341
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3413.68,
+            3425.36
+          ],
+          "segment(frames)": [
+            85342,
+            85634
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            3425.4,
+            3427.88
+          ],
+          "segment(frames)": [
+            85635,
+            85697
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            3427.92,
+            3428.72
+          ],
+          "segment(frames)": [
+            85698,
+            85718
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3428.76,
+            3428.88
+          ],
+          "segment(frames)": [
+            85719,
+            85722
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            3428.92,
+            3430.32
+          ],
+          "segment(frames)": [
+            85723,
+            85758
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3430.36,
+            3458.64
+          ],
+          "segment(frames)": [
+            85759,
+            86466
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            3458.68,
+            3460.96
+          ],
+          "segment(frames)": [
+            86467,
+            86524
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            3461.0,
+            3461.68
+          ],
+          "segment(frames)": [
+            86525,
+            86542
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3461.72,
+            3461.8
+          ],
+          "segment(frames)": [
+            86543,
+            86545
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3461.84,
+            3463.52
+          ],
+          "segment(frames)": [
+            86546,
+            86588
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3463.56,
+            3463.64
+          ],
+          "segment(frames)": [
+            86589,
+            86591
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            3463.68,
+            3464.84
+          ],
+          "segment(frames)": [
+            86592,
+            86621
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3464.88,
+            3464.88
+          ],
+          "segment(frames)": [
+            86622,
+            86622
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3464.92,
+            3466.52
+          ],
+          "segment(frames)": [
+            86623,
+            86663
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3466.56,
+            3580.92
+          ],
+          "segment(frames)": [
+            86664,
+            89523
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            3580.96,
+            3582.72
+          ],
+          "segment(frames)": [
+            89524,
+            89568
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            3582.76,
+            3583.56
+          ],
+          "segment(frames)": [
+            89569,
+            89589
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3583.6,
+            3583.64
+          ],
+          "segment(frames)": [
+            89590,
+            89591
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3583.68,
+            3584.76
+          ],
+          "segment(frames)": [
+            89592,
+            89619
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3584.8,
+            3616.56
+          ],
+          "segment(frames)": [
+            89620,
+            90414
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            3616.6,
+            3619.32
+          ],
+          "segment(frames)": [
+            90415,
+            90483
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3619.36,
+            3658.52
+          ],
+          "segment(frames)": [
+            90484,
+            91463
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            3658.56,
+            3660.64
+          ],
+          "segment(frames)": [
+            91464,
+            91516
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            3660.68,
+            3661.76
+          ],
+          "segment(frames)": [
+            91517,
+            91544
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3661.8,
+            3683.48
+          ],
+          "segment(frames)": [
+            91545,
+            92087
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            3683.52,
+            3686.36
+          ],
+          "segment(frames)": [
+            92088,
+            92159
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            3686.4,
+            3687.16
+          ],
+          "segment(frames)": [
+            92160,
+            92179
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3687.2,
+            3687.32
+          ],
+          "segment(frames)": [
+            92180,
+            92183
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3687.36,
+            3688.72
+          ],
+          "segment(frames)": [
+            92184,
+            92218
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3688.76,
+            3688.8
+          ],
+          "segment(frames)": [
+            92219,
+            92220
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            3688.84,
+            3689.72
+          ],
+          "segment(frames)": [
+            92221,
+            92243
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3689.76,
+            3689.84
+          ],
+          "segment(frames)": [
+            92244,
+            92246
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            3689.88,
+            3691.24
+          ],
+          "segment(frames)": [
+            92247,
+            92281
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3691.28,
+            3691.36
+          ],
+          "segment(frames)": [
+            92282,
+            92284
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            3691.4,
+            3692.72
+          ],
+          "segment(frames)": [
+            92285,
+            92318
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3692.76,
+            3692.88
+          ],
+          "segment(frames)": [
+            92319,
+            92322
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            3692.92,
+            3694.24
+          ],
+          "segment(frames)": [
+            92323,
+            92356
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3694.28,
+            3726.64
+          ],
+          "segment(frames)": [
+            92357,
+            93166
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            3726.68,
+            3728.64
+          ],
+          "segment(frames)": [
+            93167,
+            93216
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            3728.68,
+            3729.28
+          ],
+          "segment(frames)": [
+            93217,
+            93232
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3729.32,
+            3729.36
+          ],
+          "segment(frames)": [
+            93233,
+            93234
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3729.4,
+            3730.48
+          ],
+          "segment(frames)": [
+            93235,
+            93262
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3730.52,
+            3730.52
+          ],
+          "segment(frames)": [
+            93263,
+            93263
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            3730.56,
+            3731.68
+          ],
+          "segment(frames)": [
+            93264,
+            93292
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3731.72,
+            3731.76
+          ],
+          "segment(frames)": [
+            93293,
+            93294
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            3731.8,
+            3732.84
+          ],
+          "segment(frames)": [
+            93295,
+            93321
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3732.88,
+            3733.0
+          ],
+          "segment(frames)": [
+            93322,
+            93325
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            3733.04,
+            3734.0
+          ],
+          "segment(frames)": [
+            93326,
+            93350
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3734.04,
+            3734.08
+          ],
+          "segment(frames)": [
+            93351,
+            93352
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            3734.12,
+            3735.44
+          ],
+          "segment(frames)": [
+            93353,
+            93386
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3735.48,
+            3735.6
+          ],
+          "segment(frames)": [
+            93387,
+            93390
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            3735.64,
+            3736.84
+          ],
+          "segment(frames)": [
+            93391,
+            93421
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3736.88,
+            3764.12
+          ],
+          "segment(frames)": [
+            93422,
+            94103
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            3764.16,
+            3767.04
+          ],
+          "segment(frames)": [
+            94104,
+            94176
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            3767.08,
+            3767.68
+          ],
+          "segment(frames)": [
+            94177,
+            94192
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3767.72,
+            3810.84
+          ],
+          "segment(frames)": [
+            94193,
+            95271
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            3810.88,
+            3813.44
+          ],
+          "segment(frames)": [
+            95272,
+            95336
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3813.48,
+            3814.16
+          ],
+          "segment(frames)": [
+            95337,
+            95354
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3814.2,
+            3814.28
+          ],
+          "segment(frames)": [
+            95355,
+            95357
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            3814.32,
+            3815.32
+          ],
+          "segment(frames)": [
+            95358,
+            95383
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3815.36,
+            3841.84
+          ],
+          "segment(frames)": [
+            95384,
+            96046
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            3841.88,
+            3844.96
+          ],
+          "segment(frames)": [
+            96047,
+            96124
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3845.0,
+            3853.44
+          ],
+          "segment(frames)": [
+            96125,
+            96336
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            3853.48,
+            3855.8
+          ],
+          "segment(frames)": [
+            96337,
+            96395
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3855.84,
+            3856.52
+          ],
+          "segment(frames)": [
+            96396,
+            96413
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3856.56,
+            3879.12
+          ],
+          "segment(frames)": [
+            96414,
+            96978
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            3879.16,
+            3880.6
+          ],
+          "segment(frames)": [
+            96979,
+            97015
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3880.64,
+            3890.04
+          ],
+          "segment(frames)": [
+            97016,
+            97251
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            3890.08,
+            3892.6
+          ],
+          "segment(frames)": [
+            97252,
+            97315
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            3892.64,
+            3893.36
+          ],
+          "segment(frames)": [
+            97316,
+            97334
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3893.4,
+            3893.52
+          ],
+          "segment(frames)": [
+            97335,
+            97338
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            3893.56,
+            3894.68
+          ],
+          "segment(frames)": [
+            97339,
+            97367
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3894.72,
+            3894.8
+          ],
+          "segment(frames)": [
+            97368,
+            97370
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3894.84,
+            3895.92
+          ],
+          "segment(frames)": [
+            97371,
+            97398
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3895.96,
+            3926.92
+          ],
+          "segment(frames)": [
+            97399,
+            98173
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            3926.96,
+            3927.92
+          ],
+          "segment(frames)": [
+            98174,
+            98198
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            3927.96,
+            3928.68
+          ],
+          "segment(frames)": [
+            98199,
+            98217
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3928.72,
+            3928.88
+          ],
+          "segment(frames)": [
+            98218,
+            98222
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            3928.92,
+            3929.88
+          ],
+          "segment(frames)": [
+            98223,
+            98247
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3929.92,
+            3930.2
+          ],
+          "segment(frames)": [
+            98248,
+            98255
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3930.24,
+            3932.0
+          ],
+          "segment(frames)": [
+            98256,
+            98300
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3932.04,
+            3969.72
+          ],
+          "segment(frames)": [
+            98301,
+            99243
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            3969.76,
+            3971.92
+          ],
+          "segment(frames)": [
+            99244,
+            99298
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            3971.96,
+            3972.72
+          ],
+          "segment(frames)": [
+            99299,
+            99318
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3972.76,
+            3972.84
+          ],
+          "segment(frames)": [
+            99319,
+            99321
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            3972.88,
+            3973.64
+          ],
+          "segment(frames)": [
+            99322,
+            99341
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            3973.68,
+            4002.44
+          ],
+          "segment(frames)": [
+            99342,
+            100061
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            4002.48,
+            4005.44
+          ],
+          "segment(frames)": [
+            100062,
+            100136
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4005.48,
+            4014.4
+          ],
+          "segment(frames)": [
+            100137,
+            100360
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            4014.44,
+            4017.08
+          ],
+          "segment(frames)": [
+            100361,
+            100427
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            4017.12,
+            4018.12
+          ],
+          "segment(frames)": [
+            100428,
+            100453
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4018.16,
+            4039.88
+          ],
+          "segment(frames)": [
+            100454,
+            100997
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            4039.92,
+            4042.08
+          ],
+          "segment(frames)": [
+            100998,
+            101052
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            4042.12,
+            4042.8
+          ],
+          "segment(frames)": [
+            101053,
+            101070
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4042.84,
+            4042.88
+          ],
+          "segment(frames)": [
+            101071,
+            101072
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            4042.92,
+            4044.04
+          ],
+          "segment(frames)": [
+            101073,
+            101101
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4044.08,
+            4082.08
+          ],
+          "segment(frames)": [
+            101102,
+            102052
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFL",
+          "segment": [
+            4082.12,
+            4084.2
+          ],
+          "segment(frames)": [
+            102053,
+            102105
+          ],
+          "label_id": 3
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            4084.24,
+            4085.16
+          ],
+          "segment(frames)": [
+            102106,
+            102129
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4085.2,
+            4098.08
+          ],
+          "segment(frames)": [
+            102130,
+            102452
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            4098.12,
+            4100.12
+          ],
+          "segment(frames)": [
+            102453,
+            102503
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            4100.16,
+            4100.92
+          ],
+          "segment(frames)": [
+            102504,
+            102523
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4100.96,
+            4101.08
+          ],
+          "segment(frames)": [
+            102524,
+            102527
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            4101.12,
+            4102.48
+          ],
+          "segment(frames)": [
+            102528,
+            102562
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4102.52,
+            4135.28
+          ],
+          "segment(frames)": [
+            102563,
+            103382
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            4135.32,
+            4137.28
+          ],
+          "segment(frames)": [
+            103383,
+            103432
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            4137.32,
+            4138.0
+          ],
+          "segment(frames)": [
+            103433,
+            103450
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4138.04,
+            4138.12
+          ],
+          "segment(frames)": [
+            103451,
+            103453
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            4138.16,
+            4139.0
+          ],
+          "segment(frames)": [
+            103454,
+            103475
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4139.04,
+            4166.48
+          ],
+          "segment(frames)": [
+            103476,
+            104162
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            4166.52,
+            4168.68
+          ],
+          "segment(frames)": [
+            104163,
+            104217
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            4168.72,
+            4169.36
+          ],
+          "segment(frames)": [
+            104218,
+            104234
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4169.4,
+            4169.44
+          ],
+          "segment(frames)": [
+            104235,
+            104236
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            4169.48,
+            4170.56
+          ],
+          "segment(frames)": [
+            104237,
+            104264
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4170.6,
+            4192.04
+          ],
+          "segment(frames)": [
+            104265,
+            104801
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            4192.08,
+            4194.56
+          ],
+          "segment(frames)": [
+            104802,
+            104864
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4194.6,
+            4205.28
+          ],
+          "segment(frames)": [
+            104865,
+            105132
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            4205.32,
+            4208.12
+          ],
+          "segment(frames)": [
+            105133,
+            105203
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            4208.16,
+            4209.0
+          ],
+          "segment(frames)": [
+            105204,
+            105225
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4209.04,
+            4209.12
+          ],
+          "segment(frames)": [
+            105226,
+            105228
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            4209.16,
+            4210.12
+          ],
+          "segment(frames)": [
+            105229,
+            105253
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4210.16,
+            4210.28
+          ],
+          "segment(frames)": [
+            105254,
+            105257
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            4210.32,
+            4211.64
+          ],
+          "segment(frames)": [
+            105258,
+            105291
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4211.68,
+            4237.88
+          ],
+          "segment(frames)": [
+            105292,
+            105947
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            4237.92,
+            4239.08
+          ],
+          "segment(frames)": [
+            105948,
+            105977
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            4239.12,
+            4239.96
+          ],
+          "segment(frames)": [
+            105978,
+            105999
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4240.0,
+            4349.44
+          ],
+          "segment(frames)": [
+            106000,
+            108736
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            4349.48,
+            4353.56
+          ],
+          "segment(frames)": [
+            108737,
+            108839
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4353.6,
+            4363.44
+          ],
+          "segment(frames)": [
+            108840,
+            109086
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            4363.48,
+            4365.92
+          ],
+          "segment(frames)": [
+            109087,
+            109148
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            4365.96,
+            4366.72
+          ],
+          "segment(frames)": [
+            109149,
+            109168
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4366.76,
+            4392.12
+          ],
+          "segment(frames)": [
+            109169,
+            109803
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            4392.16,
+            4394.4
+          ],
+          "segment(frames)": [
+            109804,
+            109860
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4394.44,
+            4408.48
+          ],
+          "segment(frames)": [
+            109861,
+            110212
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFF",
+          "segment": [
+            4408.52,
+            4410.68
+          ],
+          "segment(frames)": [
+            110213,
+            110267
+          ],
+          "label_id": 2
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4410.72,
+            4438.28
+          ],
+          "segment(frames)": [
+            110268,
+            110957
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            4438.32,
+            4440.32
+          ],
+          "segment(frames)": [
+            110958,
+            111008
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            4440.36,
+            4441.08
+          ],
+          "segment(frames)": [
+            111009,
+            111027
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4441.12,
+            4441.16
+          ],
+          "segment(frames)": [
+            111028,
+            111029
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            4441.2,
+            4442.2
+          ],
+          "segment(frames)": [
+            111030,
+            111055
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4442.24,
+            4442.44
+          ],
+          "segment(frames)": [
+            111056,
+            111061
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            4442.48,
+            4444.12
+          ],
+          "segment(frames)": [
+            111062,
+            111103
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4444.16,
+            4444.16
+          ],
+          "segment(frames)": [
+            111104,
+            111104
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            4444.2,
+            4445.32
+          ],
+          "segment(frames)": [
+            111105,
+            111133
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4445.36,
+            4471.8
+          ],
+          "segment(frames)": [
+            111134,
+            111795
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFL",
+          "segment": [
+            4471.84,
+            4474.0
+          ],
+          "segment(frames)": [
+            111796,
+            111850
+          ],
+          "label_id": 3
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4474.04,
+            4489.68
+          ],
+          "segment(frames)": [
+            111851,
+            112242
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            4489.72,
+            4492.12
+          ],
+          "segment(frames)": [
+            112243,
+            112303
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            4492.16,
+            4492.92
+          ],
+          "segment(frames)": [
+            112304,
+            112323
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4492.96,
+            4517.96
+          ],
+          "segment(frames)": [
+            112324,
+            112949
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SFI",
+          "segment": [
+            4518.0,
+            4519.16
+          ],
+          "segment(frames)": [
+            112950,
+            112979
+          ],
+          "label_id": 1
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            4519.2,
+            4519.92
+          ],
+          "segment(frames)": [
+            112980,
+            112998
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4519.96,
+            4520.16
+          ],
+          "segment(frames)": [
+            112999,
+            113004
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            4520.2,
+            4521.08
+          ],
+          "segment(frames)": [
+            113005,
+            113027
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4521.12,
+            4521.28
+          ],
+          "segment(frames)": [
+            113028,
+            113032
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            4521.32,
+            4522.52
+          ],
+          "segment(frames)": [
+            113033,
+            113063
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4522.56,
+            4522.72
+          ],
+          "segment(frames)": [
+            113064,
+            113068
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            4522.76,
+            4523.76
+          ],
+          "segment(frames)": [
+            113069,
+            113094
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4523.8,
+            4524.56
+          ],
+          "segment(frames)": [
+            113095,
+            113114
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            4524.6,
+            4526.56
+          ],
+          "segment(frames)": [
+            113115,
+            113164
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4526.6,
+            4566.72
+          ],
+          "segment(frames)": [
+            113165,
+            114168
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            4566.76,
+            4569.76
+          ],
+          "segment(frames)": [
+            114169,
+            114244
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4569.8,
+            4579.92
+          ],
+          "segment(frames)": [
+            114245,
+            114498
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            4579.96,
+            4581.88
+          ],
+          "segment(frames)": [
+            114499,
+            114547
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            4581.92,
+            4582.72
+          ],
+          "segment(frames)": [
+            114548,
+            114568
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4582.76,
+            4583.0
+          ],
+          "segment(frames)": [
+            114569,
+            114575
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            4583.04,
+            4584.0
+          ],
+          "segment(frames)": [
+            114576,
+            114600
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4584.04,
+            4584.16
+          ],
+          "segment(frames)": [
+            114601,
+            114604
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            4584.2,
+            4585.2
+          ],
+          "segment(frames)": [
+            114605,
+            114630
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4585.24,
+            4585.48
+          ],
+          "segment(frames)": [
+            114631,
+            114637
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            4585.52,
+            4586.64
+          ],
+          "segment(frames)": [
+            114638,
+            114666
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4586.68,
+            4586.8
+          ],
+          "segment(frames)": [
+            114667,
+            114670
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            4586.84,
+            4587.84
+          ],
+          "segment(frames)": [
+            114671,
+            114696
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4587.88,
+            4616.4
+          ],
+          "segment(frames)": [
+            114697,
+            115410
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            4616.44,
+            4618.92
+          ],
+          "segment(frames)": [
+            115411,
+            115473
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4618.96,
+            4632.36
+          ],
+          "segment(frames)": [
+            115474,
+            115809
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            4632.4,
+            4635.12
+          ],
+          "segment(frames)": [
+            115810,
+            115878
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            4635.16,
+            4636.16
+          ],
+          "segment(frames)": [
+            115879,
+            115904
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4636.2,
+            4659.08
+          ],
+          "segment(frames)": [
+            115905,
+            116477
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            4659.12,
+            4660.84
+          ],
+          "segment(frames)": [
+            116478,
+            116521
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4660.88,
+            4672.68
+          ],
+          "segment(frames)": [
+            116522,
+            116817
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            4672.72,
+            4675.4
+          ],
+          "segment(frames)": [
+            116818,
+            116885
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            4675.44,
+            4676.16
+          ],
+          "segment(frames)": [
+            116886,
+            116904
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4676.2,
+            4676.28
+          ],
+          "segment(frames)": [
+            116905,
+            116907
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            4676.32,
+            4677.32
+          ],
+          "segment(frames)": [
+            116908,
+            116933
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4677.36,
+            4677.48
+          ],
+          "segment(frames)": [
+            116934,
+            116937
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            4677.52,
+            4678.56
+          ],
+          "segment(frames)": [
+            116938,
+            116964
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4678.6,
+            4678.68
+          ],
+          "segment(frames)": [
+            116965,
+            116967
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            4678.72,
+            4679.92
+          ],
+          "segment(frames)": [
+            116968,
+            116998
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4679.96,
+            4680.16
+          ],
+          "segment(frames)": [
+            116999,
+            117004
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            4680.2,
+            4681.36
+          ],
+          "segment(frames)": [
+            117005,
+            117034
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4681.4,
+            4681.56
+          ],
+          "segment(frames)": [
+            117035,
+            117039
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            4681.6,
+            4682.68
+          ],
+          "segment(frames)": [
+            117040,
+            117067
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4682.72,
+            4682.8
+          ],
+          "segment(frames)": [
+            117068,
+            117070
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFR",
+          "segment": [
+            4682.84,
+            4683.92
+          ],
+          "segment(frames)": [
+            117071,
+            117098
+          ],
+          "label_id": 8
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4683.96,
+            4684.04
+          ],
+          "segment(frames)": [
+            117099,
+            117101
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNR",
+          "segment": [
+            4684.08,
+            4685.16
+          ],
+          "segment(frames)": [
+            117102,
+            117129
+          ],
+          "label_id": 10
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4685.2,
+            4685.28
+          ],
+          "segment(frames)": [
+            117130,
+            117132
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HFL",
+          "segment": [
+            4685.32,
+            4686.44
+          ],
+          "segment(frames)": [
+            117133,
+            117161
+          ],
+          "label_id": 7
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4686.48,
+            4686.76
+          ],
+          "segment(frames)": [
+            117162,
+            117169
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "HNL",
+          "segment": [
+            4686.8,
+            4687.68
+          ],
+          "segment(frames)": [
+            117170,
+            117192
+          ],
+          "label_id": 9
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4687.72,
+            4742.6
+          ],
+          "segment(frames)": [
+            117193,
+            118565
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNF",
+          "segment": [
+            4742.64,
+            4743.76
+          ],
+          "segment(frames)": [
+            118566,
+            118594
+          ],
+          "label_id": 5
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4743.8,
+            4764.44
+          ],
+          "segment(frames)": [
+            118595,
+            119111
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            4764.48,
+            4766.76
+          ],
+          "segment(frames)": [
+            119112,
+            119169
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4766.8,
+            4797.4
+          ],
+          "segment(frames)": [
+            119170,
+            119935
+          ],
+          "label_id": 0
+        },
+        {
+          "label": "SNI",
+          "segment": [
+            4797.44,
+            4799.76
+          ],
+          "segment(frames)": [
+            119936,
+            119994
+          ],
+          "label_id": 4
+        },
+        {
+          "label": "OTH",
+          "segment": [
+            4799.8,
+            4816.16
+          ],
+          "segment(frames)": [
+            119995,
+            120404
+          ],
+          "label_id": 0
+        }
+      ]
+    }
+  }
+}

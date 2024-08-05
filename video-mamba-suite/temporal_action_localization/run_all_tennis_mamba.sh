@@ -1,0 +1,1 @@
+python ./train_eval.py ./configs/mamba_tennis_new.yaml --output thumos_params

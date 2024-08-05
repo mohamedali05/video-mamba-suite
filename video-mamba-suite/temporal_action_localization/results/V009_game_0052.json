@@ -1,0 +1,1602 @@
+[
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            173.06451416015625,
+            193.71754455566406
+        ],
+        "score": 0.9853519797325134
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            67.2482681274414,
+            93.63064575195312
+        ],
+        "score": 0.9797846078872681
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            197.87255859375,
+            219.0269012451172
+        ],
+        "score": 0.9797719120979309
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            96.36947631835938,
+            116.07032012939453
+        ],
+        "score": 0.9745163917541504
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            138.8824005126953,
+            160.99826049804688
+        ],
+        "score": 0.9743579626083374
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            221.93896484375,
+            243.99002075195312
+        ],
+        "score": 0.9740279316902161
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            54.56002426147461,
+            63.63786315917969
+        ],
+        "score": 0.9724792838096619
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            255.7648468017578,
+            257.00750732421875
+        ],
+        "score": 0.9527639150619507
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            34.01225280761719,
+            52.283287048339844
+        ],
+        "score": 0.9452703595161438
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE GAUCHE",
+        "segment": [
+            33.15263366699219,
+            33.898834228515625
+        ],
+        "score": 0.9435833692550659
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            136.9229736328125,
+            138.1334228515625
+        ],
+        "score": 0.9422202110290527
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            138.2447509765625,
+            139.4119110107422
+        ],
+        "score": 0.9407868981361389
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            163.20449829101562,
+            169.84449768066406
+        ],
+        "score": 0.937384843826294
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            3.376831293106079,
+            4.165675163269043
+        ],
+        "score": 0.9365155696868896
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            117.27869415283203,
+            131.5123291015625
+        ],
+        "score": 0.92680823802948
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            131.50613403320312,
+            133.7301788330078
+        ],
+        "score": 0.9223843812942505
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            4.0798468589782715,
+            19.34066390991211
+        ],
+        "score": 0.9195870161056519
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            66.20608520507812,
+            67.30633544921875
+        ],
+        "score": 0.9155538082122803
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            254.5626220703125,
+            255.60244750976562
+        ],
+        "score": 0.9137710332870483
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            196.70547485351562,
+            197.8817901611328
+        ],
+        "score": 0.9122014045715332
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            169.8962860107422,
+            172.06826782226562
+        ],
+        "score": 0.9107025861740112
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            22.04947280883789,
+            28.464889526367188
+        ],
+        "score": 0.9100046157836914
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            31.788524627685547,
+            33.03252029418945
+        ],
+        "score": 0.9099975824356079
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            193.7754364013672,
+            195.86830139160156
+        ],
+        "score": 0.9031762480735779
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            29.814437866210938,
+            30.590538024902344
+        ],
+        "score": 0.9026058912277222
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            30.723478317260742,
+            31.70309829711914
+        ],
+        "score": 0.9010654091835022
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            63.386444091796875,
+            65.28966522216797
+        ],
+        "score": 0.8989104628562927
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            219.38922119140625,
+            221.5165557861328
+        ],
+        "score": 0.8931173086166382
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            246.76385498046875,
+            253.28890991210938
+        ],
+        "score": 0.8653994202613831
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            0.8238269686698914,
+            3.3412303924560547
+        ],
+        "score": 0.8549865484237671
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            134.85182189941406,
+            136.80828857421875
+        ],
+        "score": 0.8421486616134644
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            133.74871826171875,
+            134.7291259765625
+        ],
+        "score": 0.8333792686462402
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            246.11846923828125,
+            247.04737854003906
+        ],
+        "score": 0.8129310011863708
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            93.68759155273438,
+            95.54916381835938
+        ],
+        "score": 0.8116241693496704
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            260.7255554199219,
+            261.6585388183594
+        ],
+        "score": 0.8007726669311523
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            65.3258285522461,
+            66.10675811767578
+        ],
+        "score": 0.7968437075614929
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            253.20529174804688,
+            254.52920532226562
+        ],
+        "score": 0.7865219116210938
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            115.99397277832031,
+            117.41529083251953
+        ],
+        "score": 0.7862654328346252
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            195.8756103515625,
+            196.52943420410156
+        ],
+        "score": 0.7838618159294128
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            95.54463195800781,
+            96.33081817626953
+        ],
+        "score": 0.7767021656036377
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            52.10710144042969,
+            54.326358795166016
+        ],
+        "score": 0.7299150228500366
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            28.503389358520508,
+            29.764297485351562
+        ],
+        "score": 0.7121976017951965
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            19.286558151245117,
+            21.645984649658203
+        ],
+        "score": 0.7099803686141968
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            257.1657409667969,
+            258.4307556152344
+        ],
+        "score": 0.7039227485656738
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            172.10743713378906,
+            173.0942840576172
+        ],
+        "score": 0.6864124536514282
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            221.54791259765625,
+            222.25579833984375
+        ],
+        "score": 0.6810817718505859
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            259.3312072753906,
+            260.771240234375
+        ],
+        "score": 0.6508005261421204
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            161.01234436035156,
+            163.29425048828125
+        ],
+        "score": 0.64961177110672
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            261.6985778808594,
+            266.0901184082031
+        ],
+        "score": 0.557381272315979
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            243.8741455078125,
+            246.13168334960938
+        ],
+        "score": 0.5079943537712097
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            196.5433349609375,
+            196.69027709960938
+        ],
+        "score": 0.46611955761909485
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            0.3242300748825073,
+            1.1794143915176392
+        ],
+        "score": 0.4571338891983032
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            255.6190185546875,
+            255.73068237304688
+        ],
+        "score": 0.42952731251716614
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            138.16275024414062,
+            138.2822265625
+        ],
+        "score": 0.40599414706230164
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            258.54412841796875,
+            259.6174621582031
+        ],
+        "score": 0.36954814195632935
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            259.3312072753906,
+            260.771240234375
+        ],
+        "score": 0.2966153919696808
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            134.79449462890625,
+            134.9160614013672
+        ],
+        "score": 0.2927895784378052
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE GAUCHE",
+        "segment": [
+            257.1811828613281,
+            258.4473571777344
+        ],
+        "score": 0.2922539710998535
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            161.01234436035156,
+            163.29425048828125
+        ],
+        "score": 0.28998324275016785
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            65.33659362792969,
+            66.09778594970703
+        ],
+        "score": 0.2663254141807556
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            30.642656326293945,
+            30.763662338256836
+        ],
+        "score": 0.253032386302948
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            221.54229736328125,
+            222.2738037109375
+        ],
+        "score": 0.22683924436569214
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            258.4810485839844,
+            258.9966735839844
+        ],
+        "score": 0.21074731647968292
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            243.83740234375,
+            246.2480926513672
+        ],
+        "score": 0.20696227252483368
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            31.642162322998047,
+            31.753013610839844
+        ],
+        "score": 0.20456403493881226
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            66.15962219238281,
+            66.29904174804688
+        ],
+        "score": 0.1938297301530838
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            195.86888122558594,
+            196.55511474609375
+        ],
+        "score": 0.19302015006542206
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            136.75926208496094,
+            136.87118530273438
+        ],
+        "score": 0.1861175298690796
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            31.794309616088867,
+            33.023216247558594
+        ],
+        "score": 0.18552657961845398
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            63.544883728027344,
+            65.34761047363281
+        ],
+        "score": 0.17752167582511902
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            257.1657409667969,
+            258.4307556152344
+        ],
+        "score": 0.17306457459926605
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            1.2619295120239258,
+            3.3419296741485596
+        ],
+        "score": 0.17141400277614594
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE GAUCHE",
+        "segment": [
+            134.84275817871094,
+            136.81285095214844
+        ],
+        "score": 0.1708267629146576
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            19.223108291625977,
+            21.56826400756836
+        ],
+        "score": 0.16780585050582886
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            134.67767333984375,
+            134.80430603027344
+        ],
+        "score": 0.16596093773841858
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            261.64703369140625,
+            262.4476318359375
+        ],
+        "score": 0.16426905989646912
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            172.1128692626953,
+            173.12144470214844
+        ],
+        "score": 0.15886718034744263
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            258.5024719238281,
+            260.23492431640625
+        ],
+        "score": 0.1534067690372467
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            258.5024719238281,
+            260.23492431640625
+        ],
+        "score": 0.15123343467712402
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            131.65023803710938,
+            133.76547241210938
+        ],
+        "score": 0.1488465964794159
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            193.90347290039062,
+            195.90626525878906
+        ],
+        "score": 0.14667099714279175
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            133.74871826171875,
+            134.7291259765625
+        ],
+        "score": 0.14647461473941803
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            31.74106216430664,
+            31.890073776245117
+        ],
+        "score": 0.14191022515296936
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            3.4046969413757324,
+            4.207601070404053
+        ],
+        "score": 0.13826477527618408
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            4.172494888305664,
+            18.95238494873047
+        ],
+        "score": 0.13801193237304688
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            196.76043701171875,
+            197.84974670410156
+        ],
+        "score": 0.13674208521842957
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            67.18576049804688,
+            93.80810546875
+        ],
+        "score": 0.13623817265033722
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            117.51628112792969,
+            131.4418487548828
+        ],
+        "score": 0.13569049537181854
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            138.2422332763672,
+            139.3833770751953
+        ],
+        "score": 0.13472381234169006
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            54.48613739013672,
+            63.602691650390625
+        ],
+        "score": 0.13462217152118683
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            93.57398223876953,
+            95.50862121582031
+        ],
+        "score": 0.1345829963684082
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            221.8374786376953,
+            244.11355590820312
+        ],
+        "score": 0.1329973340034485
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            163.2687530517578,
+            169.95314025878906
+        ],
+        "score": 0.1317353993654251
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            197.66571044921875,
+            218.95660400390625
+        ],
+        "score": 0.13150650262832642
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE GAUCHE",
+        "segment": [
+            33.147987365722656,
+            33.905879974365234
+        ],
+        "score": 0.13123299181461334
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            254.5662078857422,
+            255.62835693359375
+        ],
+        "score": 0.12958863377571106
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            260.7619323730469,
+            261.6380615234375
+        ],
+        "score": 0.12714692950248718
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            138.85458374023438,
+            161.02621459960938
+        ],
+        "score": 0.12710057199001312
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            65.96502685546875,
+            66.17204284667969
+        ],
+        "score": 0.12605391442775726
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            219.45196533203125,
+            221.49232482910156
+        ],
+        "score": 0.12597604095935822
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            52.10710144042969,
+            54.326358795166016
+        ],
+        "score": 0.12544561922550201
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            253.1386260986328,
+            254.50753784179688
+        ],
+        "score": 0.12500141561031342
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            96.23406982421875,
+            115.87837219238281
+        ],
+        "score": 0.12464860081672668
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            134.9294891357422,
+            136.79922485351562
+        ],
+        "score": 0.1246173158288002
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            22.021465301513672,
+            28.51526641845703
+        ],
+        "score": 0.12400906533002853
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            115.9925308227539,
+            117.42121124267578
+        ],
+        "score": 0.12339753657579422
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            173.15167236328125,
+            193.7143096923828
+        ],
+        "score": 0.12276607751846313
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            255.76048278808594,
+            257.015625
+        ],
+        "score": 0.12237633019685745
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            136.93067932128906,
+            138.13661193847656
+        ],
+        "score": 0.12152877449989319
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            115.92861938476562,
+            117.4135971069336
+        ],
+        "score": 0.12029793858528137
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            195.86888122558594,
+            196.55511474609375
+        ],
+        "score": 0.11998366564512253
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            134.9294891357422,
+            136.79922485351562
+        ],
+        "score": 0.11945871263742447
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            257.0533752441406,
+            257.177001953125
+        ],
+        "score": 0.1192910298705101
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            195.97776794433594,
+            196.57635498046875
+        ],
+        "score": 0.11866253614425659
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            246.86976623535156,
+            253.2229461669922
+        ],
+        "score": 0.11848808079957962
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            260.5164794921875,
+            260.7520446777344
+        ],
+        "score": 0.11795292049646378
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            95.56299591064453,
+            96.31940460205078
+        ],
+        "score": 0.11619798839092255
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            133.72752380371094,
+            134.73976135253906
+        ],
+        "score": 0.11553983390331268
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            29.814882278442383,
+            30.594438552856445
+        ],
+        "score": 0.11548273265361786
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            258.4727783203125,
+            258.7496032714844
+        ],
+        "score": 0.11521995812654495
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            259.6335754394531,
+            260.7084045410156
+        ],
+        "score": 0.11392606794834137
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            221.51194763183594,
+            222.2757568359375
+        ],
+        "score": 0.11337165534496307
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            161.01234436035156,
+            163.29425048828125
+        ],
+        "score": 0.11304131895303726
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            52.205467224121094,
+            54.368412017822266
+        ],
+        "score": 0.11264807730913162
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            34.03025817871094,
+            52.182342529296875
+        ],
+        "score": 0.11262142658233643
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            66.21868133544922,
+            67.29714965820312
+        ],
+        "score": 0.11254636943340302
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            169.95767211914062,
+            172.07733154296875
+        ],
+        "score": 0.11040317267179489
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            254.5711669921875,
+            255.61962890625
+        ],
+        "score": 0.10945898294448853
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            0.8238269686698914,
+            3.3412303924560547
+        ],
+        "score": 0.10815922915935516
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            21.577625274658203,
+            22.3282470703125
+        ],
+        "score": 0.10553775727748871
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            30.729215621948242,
+            31.697622299194336
+        ],
+        "score": 0.10458537936210632
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            31.794309616088867,
+            33.023216247558594
+        ],
+        "score": 0.10166209936141968
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            21.577625274658203,
+            22.3282470703125
+        ],
+        "score": 0.10155387967824936
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            161.01234436035156,
+            163.29425048828125
+        ],
+        "score": 0.09707187861204147
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            0.28889113664627075,
+            1.2754040956497192
+        ],
+        "score": 0.09483669698238373
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            0.8238269686698914,
+            3.3412303924560547
+        ],
+        "score": 0.09462594985961914
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            19.384191513061523,
+            21.722597122192383
+        ],
+        "score": 0.09392472356557846
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            197.8598175048828,
+            197.99301147460938
+        ],
+        "score": 0.09391438215970993
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            254.4803466796875,
+            254.61695861816406
+        ],
+        "score": 0.09383339434862137
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            259.9779052734375,
+            262.97705078125
+        ],
+        "score": 0.09312237799167633
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            65.33659362792969,
+            66.09778594970703
+        ],
+        "score": 0.09285690635442734
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            161.01283264160156,
+            163.2332763671875
+        ],
+        "score": 0.09165126830339432
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            246.03077697753906,
+            247.02920532226562
+        ],
+        "score": 0.09144148975610733
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            257.1528015136719,
+            258.46124267578125
+        ],
+        "score": 0.0904722586274147
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            67.27918243408203,
+            67.40414428710938
+        ],
+        "score": 0.08720684796571732
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            28.467283248901367,
+            29.781431198120117
+        ],
+        "score": 0.08500986546278
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            28.503389358520508,
+            29.764297485351562
+        ],
+        "score": 0.08394157886505127
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            243.83740234375,
+            246.2480926513672
+        ],
+        "score": 0.0817733183503151
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            31.788524627685547,
+            33.03252029418945
+        ],
+        "score": 0.08100954443216324
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            260.72216796875,
+            261.6233825683594
+        ],
+        "score": 0.08083634823560715
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            22.04947280883789,
+            28.464889526367188
+        ],
+        "score": 0.079991415143013
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            246.11846923828125,
+            247.04737854003906
+        ],
+        "score": 0.07654324918985367
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            259.6220703125,
+            261.1954345703125
+        ],
+        "score": 0.07544055581092834
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            255.7648468017578,
+            257.00750732421875
+        ],
+        "score": 0.07537815719842911
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            117.297607421875,
+            118.01542663574219
+        ],
+        "score": 0.07374760508537292
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            255.72935485839844,
+            255.91445922851562
+        ],
+        "score": 0.0736565962433815
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            261.5882568359375,
+            266.2247314453125
+        ],
+        "score": 0.07360783219337463
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            33.03742599487305,
+            33.196502685546875
+        ],
+        "score": 0.07353957742452621
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            0.1777687817811966,
+            0.38738563656806946
+        ],
+        "score": 0.07202360033988953
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            196.65379333496094,
+            196.82423400878906
+        ],
+        "score": 0.07144730538129807
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            243.96212768554688,
+            246.1881866455078
+        ],
+        "score": 0.0711354911327362
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            66.73145294189453,
+            68.28489685058594
+        ],
+        "score": 0.0695166066288948
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            25.95794105529785,
+            29.138559341430664
+        ],
+        "score": 0.06671499460935593
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            29.673139572143555,
+            30.551607131958008
+        ],
+        "score": 0.0663805678486824
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            63.544883728027344,
+            65.34761047363281
+        ],
+        "score": 0.06570836156606674
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            3.2903411388397217,
+            3.456761121749878
+        ],
+        "score": 0.06560630351305008
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            19.303024291992188,
+            21.649091720581055
+        ],
+        "score": 0.0651274025440216
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            196.76043701171875,
+            197.84974670410156
+        ],
+        "score": 0.06507702171802521
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            117.18864440917969,
+            117.87408447265625
+        ],
+        "score": 0.06498991698026657
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            255.76048278808594,
+            257.015625
+        ],
+        "score": 0.06476712971925735
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            54.40727233886719,
+            55.66521072387695
+        ],
+        "score": 0.06473485380411148
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            169.8962860107422,
+            172.06826782226562
+        ],
+        "score": 0.06369271129369736
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            246.8183135986328,
+            253.29534912109375
+        ],
+        "score": 0.06304841488599777
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            63.386444091796875,
+            65.28966522216797
+        ],
+        "score": 0.06299340724945068
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            172.1128692626953,
+            173.12144470214844
+        ],
+        "score": 0.061948757618665695
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            30.3996639251709,
+            30.664600372314453
+        ],
+        "score": 0.06180041655898094
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            -0.0,
+            0.5329663753509521
+        ],
+        "score": 0.06097091734409332
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            261.8856506347656,
+            265.9698486328125
+        ],
+        "score": 0.060875874012708664
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            161.06475830078125,
+            163.24575805664062
+        ],
+        "score": 0.06073356792330742
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            29.813596725463867,
+            30.6007022857666
+        ],
+        "score": 0.06072276458144188
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            115.99397277832031,
+            117.41529083251953
+        ],
+        "score": 0.06028019264340401
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            117.22359466552734,
+            117.3840560913086
+        ],
+        "score": 0.05985904112458229
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            260.7020263671875,
+            261.01361083984375
+        ],
+        "score": 0.05972627177834511
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE GAUCHE",
+        "segment": [
+            30.723478317260742,
+            31.70309829711914
+        ],
+        "score": 0.05938360467553139
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            246.92251586914062,
+            247.09841918945312
+        ],
+        "score": 0.058810241520404816
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            21.495424270629883,
+            21.682750701904297
+        ],
+        "score": 0.05867384374141693
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            131.50613403320312,
+            133.7301788330078
+        ],
+        "score": 0.05849030241370201
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            134.9294891357422,
+            136.79922485351562
+        ],
+        "score": 0.05837223678827286
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE GAUCHE",
+        "segment": [
+            255.76048278808594,
+            257.015625
+        ],
+        "score": 0.05764082819223404
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            4.217989921569824,
+            4.416271209716797
+        ],
+        "score": 0.05754367634654045
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            253.1386260986328,
+            254.50753784179688
+        ],
+        "score": 0.05673065781593323
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            173.0536346435547,
+            173.20858764648438
+        ],
+        "score": 0.05645371600985527
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE GAUCHE",
+        "segment": [
+            261.1378173828125,
+            262.13751220703125
+        ],
+        "score": 0.056372564285993576
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            258.31475830078125,
+            258.4867858886719
+        ],
+        "score": 0.05625876411795616
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE DROIT",
+        "segment": [
+            261.5882568359375,
+            266.2247314453125
+        ],
+        "score": 0.05617975816130638
+    },
+    {
+        "label": "COUP DU JOUEUR DE DOS: RECEPTION COTE GAUCHE",
+        "segment": [
+            259.3312072753906,
+            260.771240234375
+        ],
+        "score": 0.054861199110746384
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            258.5024719238281,
+            260.23492431640625
+        ],
+        "score": 0.05456923693418503
+    },
+    {
+        "label": "SERVICE",
+        "segment": [
+            63.544883728027344,
+            65.34761047363281
+        ],
+        "score": 0.05420349910855293
+    },
+    {
+        "label": "PHASE DE NON-JEU",
+        "segment": [
+            133.68038940429688,
+            133.83253479003906
+        ],
+        "score": 0.054176367819309235
+    },
+    {
+        "label": "COUP DU JOUEUR FACE A LA CAMERA : RECEPTION DE SON COTE DROIT",
+        "segment": [
+            133.77395629882812,
+            134.74029541015625
+        ],
+        "score": 0.05408482253551483
+    }
+]

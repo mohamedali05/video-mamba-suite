@@ -1,0 +1,5801 @@
+{
+    "database": {
+        "set_1_game_1_paolini_andreeva": {
+            "subset": "test",
+            "duration": 132.87,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        0.0,
+                        0.77
+                    ],
+                    "segment(frames)": [
+                        0,
+                        23
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0.8,
+                        3.5
+                    ],
+                    "segment(frames)": [
+                        24,
+                        105
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        3.53,
+                        9.17
+                    ],
+                    "segment(frames)": [
+                        106,
+                        275
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        9.2,
+                        11.67
+                    ],
+                    "segment(frames)": [
+                        276,
+                        350
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        11.7,
+                        19.67
+                    ],
+                    "segment(frames)": [
+                        351,
+                        590
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        19.7,
+                        39.3
+                    ],
+                    "segment(frames)": [
+                        591,
+                        1179
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        39.33,
+                        41.2
+                    ],
+                    "segment(frames)": [
+                        1180,
+                        1236
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        41.23,
+                        42.6
+                    ],
+                    "segment(frames)": [
+                        1237,
+                        1278
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        42.63,
+                        59.87
+                    ],
+                    "segment(frames)": [
+                        1279,
+                        1796
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        59.9,
+                        61.97
+                    ],
+                    "segment(frames)": [
+                        1797,
+                        1859
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        62.0,
+                        63.3
+                    ],
+                    "segment(frames)": [
+                        1860,
+                        1899
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        63.33,
+                        78.7
+                    ],
+                    "segment(frames)": [
+                        1900,
+                        2361
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        78.73,
+                        80.87
+                    ],
+                    "segment(frames)": [
+                        2362,
+                        2426
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        80.3,
+                        91.53
+                    ],
+                    "segment(frames)": [
+                        2409,
+                        2746
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        91.8,
+                        115.1
+                    ],
+                    "segment(frames)": [
+                        2754,
+                        3453
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        115.13,
+                        117.13
+                    ],
+                    "segment(frames)": [
+                        3454,
+                        3514
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        117.17,
+                        118.23
+                    ],
+                    "segment(frames)": [
+                        3515,
+                        3547
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        118.27,
+                        125.43
+                    ],
+                    "segment(frames)": [
+                        3548,
+                        3763
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        125.47,
+                        127.7
+                    ],
+                    "segment(frames)": [
+                        3764,
+                        3831
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        127.73,
+                        131.77
+                    ],
+                    "segment(frames)": [
+                        3832,
+                        3953
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        131.8,
+                        132.83
+                    ],
+                    "segment(frames)": [
+                        3954,
+                        3985
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "set_1_game_2_paolini_andreeva": {
+            "subset": "test",
+            "duration": 154.83,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        0.0,
+                        1.27
+                    ],
+                    "segment(frames)": [
+                        0,
+                        38
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        1.3,
+                        3.33
+                    ],
+                    "segment(frames)": [
+                        39,
+                        100
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        3.37,
+                        10.0
+                    ],
+                    "segment(frames)": [
+                        101,
+                        300
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        10.03,
+                        29.5
+                    ],
+                    "segment(frames)": [
+                        301,
+                        885
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        29.53,
+                        31.77
+                    ],
+                    "segment(frames)": [
+                        886,
+                        953
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        31.8,
+                        37.87
+                    ],
+                    "segment(frames)": [
+                        954,
+                        1136
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        37.9,
+                        62
+                    ],
+                    "segment(frames)": [
+                        1137,
+                        1831
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        62.03,
+                        64.4
+                    ],
+                    "segment(frames)": [
+                        1861,
+                        1932
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        64.43,
+                        70.63
+                    ],
+                    "segment(frames)": [
+                        1933,
+                        2119
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        70.67,
+                        72.83
+                    ],
+                    "segment(frames)": [
+                        2120,
+                        2185
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        72.87,
+                        80.9
+                    ],
+                    "segment(frames)": [
+                        2186,
+                        2427
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        80.93,
+                        111.77
+                    ],
+                    "segment(frames)": [
+                        2428,
+                        3353
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        111.8,
+                        114.67
+                    ],
+                    "segment(frames)": [
+                        3354,
+                        3440
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        114.7,
+                        124.8
+                    ],
+                    "segment(frames)": [
+                        3441,
+                        3744
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        124.83,
+                        146.0
+                    ],
+                    "segment(frames)": [
+                        3745,
+                        4380
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        146.03,
+                        148.47
+                    ],
+                    "segment(frames)": [
+                        4381,
+                        4454
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        148.5,
+                        153.97
+                    ],
+                    "segment(frames)": [
+                        4455,
+                        4619
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        154.0,
+                        154.83
+                    ],
+                    "segment(frames)": [
+                        4620,
+                        4645.0
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "set_1_game_3_paolini_andreeva": {
+            "subset": "test",
+            "duration": 167.43,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        0,
+                        0.67
+                    ],
+                    "segment(frames)": [
+                        0,
+                        20
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0.7,
+                        2.97
+                    ],
+                    "segment(frames)": [
+                        21,
+                        89
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        3.0,
+                        5.37
+                    ],
+                    "segment(frames)": [
+                        90,
+                        161
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        5.4,
+                        19.4
+                    ],
+                    "segment(frames)": [
+                        162,
+                        582
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        19.43,
+                        21.9
+                    ],
+                    "segment(frames)": [
+                        583,
+                        657
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        21.93,
+                        38.2
+                    ],
+                    "segment(frames)": [
+                        658,
+                        1146
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        38.93,
+                        66.23
+                    ],
+                    "segment(frames)": [
+                        1147,
+                        1987
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        66.27,
+                        68.37
+                    ],
+                    "segment(frames)": [
+                        1988,
+                        2051
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        68.4,
+                        70.9
+                    ],
+                    "segment(frames)": [
+                        2052,
+                        2127
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        70.93,
+                        89.17
+                    ],
+                    "segment(frames)": [
+                        2128,
+                        2675
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        89.2,
+                        91.23
+                    ],
+                    "segment(frames)": [
+                        2676,
+                        2737
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        91.27,
+                        93.5
+                    ],
+                    "segment(frames)": [
+                        2738,
+                        2805
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        93.53,
+                        111.07
+                    ],
+                    "segment(frames)": [
+                        2806,
+                        3332
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        111.1,
+                        113.33
+                    ],
+                    "segment(frames)": [
+                        3333,
+                        3400
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        113.37,
+                        114.3
+                    ],
+                    "segment(frames)": [
+                        3401,
+                        3429
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        114.33,
+                        119.23
+                    ],
+                    "segment(frames)": [
+                        3430,
+                        3577
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        119.27,
+                        121.87
+                    ],
+                    "segment(frames)": [
+                        3578,
+                        3656
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        121.9,
+                        122.97
+                    ],
+                    "segment(frames)": [
+                        3657,
+                        3689
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        123.0,
+                        140.07
+                    ],
+                    "segment(frames)": [
+                        3690,
+                        4202
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        140.1,
+                        142.5
+                    ],
+                    "segment(frames)": [
+                        4203,
+                        4275
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        142.4,
+                        143.47
+                    ],
+                    "segment(frames)": [
+                        4272,
+                        4304
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        143.5,
+                        149.53
+                    ],
+                    "segment(frames)": [
+                        4305,
+                        4486
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        149.57,
+                        151.47
+                    ],
+                    "segment(frames)": [
+                        4487,
+                        4544
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        151.5,
+                        165.0
+                    ],
+                    "segment(frames)": [
+                        4545,
+                        4950
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        165.03,
+                        167.37
+                    ],
+                    "segment(frames)": [
+                        4951,
+                        5021
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "set_1_game_4_paolini_andreeva": {
+            "subset": "test",
+            "duration": 190.37,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0,
+                        2.47
+                    ],
+                    "segment(frames)": [
+                        0,
+                        74
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        2.5,
+                        4.9
+                    ],
+                    "segment(frames)": [
+                        75,
+                        147
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        4.93,
+                        26.7
+                    ],
+                    "segment(frames)": [
+                        148,
+                        801
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        26.73,
+                        29.33
+                    ],
+                    "segment(frames)": [
+                        802,
+                        880
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        29.37,
+                        30.53
+                    ],
+                    "segment(frames)": [
+                        881,
+                        910
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        30.57,
+                        36.33
+                    ],
+                    "segment(frames)": [
+                        911,
+                        1090
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        36.37,
+                        38.37
+                    ],
+                    "segment(frames)": [
+                        1091,
+                        1151
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        38.4,
+                        39.73
+                    ],
+                    "segment(frames)": [
+                        1152,
+                        1174
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        39.77,
+                        61.03
+                    ],
+                    "segment(frames)": [
+                        1175,
+                        1810
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        61.07,
+                        62.5
+                    ],
+                    "segment(frames)": [
+                        1811,
+                        1877
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        62.53,
+                        63.43
+                    ],
+                    "segment(frames)": [
+                        1878,
+                        1903
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        63.47,
+                        69.17
+                    ],
+                    "segment(frames)": [
+                        1904,
+                        2075
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        69.2,
+                        71.1
+                    ],
+                    "segment(frames)": [
+                        2076,
+                        2144
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        71.13,
+                        74.67
+                    ],
+                    "segment(frames)": [
+                        2145,
+                        2230
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        74.97,
+                        95.17
+                    ],
+                    "segment(frames)": [
+                        2231,
+                        2851
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        95.2,
+                        97.57
+                    ],
+                    "segment(frames)": [
+                        2852,
+                        2933
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        97.63,
+                        104.97
+                    ],
+                    "segment(frames)": [
+                        2924,
+                        3149
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        105.0,
+                        125.8
+                    ],
+                    "segment(frames)": [
+                        3150,
+                        3774
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        125.83,
+                        128.87
+                    ],
+                    "segment(frames)": [
+                        3775,
+                        3848
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        128.97,
+                        134.53
+                    ],
+                    "segment(frames)": [
+                        3849,
+                        4022
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        134.57,
+                        136.2
+                    ],
+                    "segment(frames)": [
+                        4023,
+                        4100
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        136.23,
+                        140.53
+                    ],
+                    "segment(frames)": [
+                        4101,
+                        4190
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        140.57,
+                        166.2
+                    ],
+                    "segment(frames)": [
+                        4191,
+                        4962
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        166.23,
+                        167.2
+                    ],
+                    "segment(frames)": [
+                        4963,
+                        5016
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        167.23,
+                        167.77
+                    ],
+                    "segment(frames)": [
+                        5017,
+                        5049
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        167.8,
+                        173.13
+                    ],
+                    "segment(frames)": [
+                        5050,
+                        5219
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        173.17,
+                        175.67
+                    ],
+                    "segment(frames)": [
+                        5220,
+                        5270
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        175.7,
+                        189.03
+                    ],
+                    "segment(frames)": [
+                        5271,
+                        5696
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        189.07,
+                        190.37
+                    ],
+                    "segment(frames)": [
+                        5697,
+                        5702
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "set_1_game_5_paolini_andreeva": {
+            "subset": "test",
+            "duration": 326.07,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        0.0,
+                        0.3
+                    ],
+                    "segment(frames)": [
+                        0,
+                        9
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0.33,
+                        2.53
+                    ],
+                    "segment(frames)": [
+                        10,
+                        80
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        2.57,
+                        13.03
+                    ],
+                    "segment(frames)": [
+                        81,
+                        400
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        13.07,
+                        28.8
+                    ],
+                    "segment(frames)": [
+                        401,
+                        857
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        28.83,
+                        31.23
+                    ],
+                    "segment(frames)": [
+                        858,
+                        941
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        31.27,
+                        32.17
+                    ],
+                    "segment(frames)": [
+                        942,
+                        969
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        32.2,
+                        38.87
+                    ],
+                    "segment(frames)": [
+                        970,
+                        1157
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        38.9,
+                        41.07
+                    ],
+                    "segment(frames)": [
+                        1158,
+                        1233
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        41.1,
+                        42.37
+                    ],
+                    "segment(frames)": [
+                        1234,
+                        1265
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        42.4,
+                        57.0
+                    ],
+                    "segment(frames)": [
+                        1266,
+                        1710
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        57.03,
+                        59.53
+                    ],
+                    "segment(frames)": [
+                        1711,
+                        1792
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        59.57,
+                        68.63
+                    ],
+                    "segment(frames)": [
+                        1793,
+                        2045
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        68.67,
+                        93.9
+                    ],
+                    "segment(frames)": [
+                        2046,
+                        2788
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        93.93,
+                        95.37
+                    ],
+                    "segment(frames)": [
+                        2789,
+                        2858
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        95.5,
+                        101.43
+                    ],
+                    "segment(frames)": [
+                        2859,
+                        3043
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        101.47,
+                        103.5
+                    ],
+                    "segment(frames)": [
+                        3044,
+                        3113
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        103.53,
+                        106.37
+                    ],
+                    "segment(frames)": [
+                        3114,
+                        3214
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        106.4,
+                        132.5
+                    ],
+                    "segment(frames)": [
+                        3215,
+                        3958
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        132.53,
+                        134.33
+                    ],
+                    "segment(frames)": [
+                        3959,
+                        4032
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        134.37,
+                        148.97
+                    ],
+                    "segment(frames)": [
+                        4033,
+                        4463
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        149.0,
+                        172.33
+                    ],
+                    "segment(frames)": [
+                        4464,
+                        5170
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        172.37,
+                        174.6
+                    ],
+                    "segment(frames)": [
+                        5171,
+                        5242
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        174.63,
+                        175.8
+                    ],
+                    "segment(frames)": [
+                        5243,
+                        5282
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        175.83,
+                        195.37
+                    ],
+                    "segment(frames)": [
+                        5283,
+                        5861
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        195.4,
+                        197.43
+                    ],
+                    "segment(frames)": [
+                        5862,
+                        5923
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        197.47,
+                        224.03
+                    ],
+                    "segment(frames)": [
+                        5924,
+                        6710
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        224.07,
+                        260.2
+                    ],
+                    "segment(frames)": [
+                        6711,
+                        7801
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        260.23,
+                        261.07
+                    ],
+                    "segment(frames)": [
+                        7802,
+                        7834
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        261.1,
+                        264.27
+                    ],
+                    "segment(frames)": [
+                        7835,
+                        7920
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        264.3,
+                        290.0
+                    ],
+                    "segment(frames)": [
+                        7929,
+                        8700
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        290.03,
+                        292.37
+                    ],
+                    "segment(frames)": [
+                        8701,
+                        8776
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        292.4,
+                        296.6
+                    ],
+                    "segment(frames)": [
+                        8777,
+                        8890
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        296.63,
+                        313.8
+                    ],
+                    "segment(frames)": [
+                        8891,
+                        9414
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        313.83,
+                        316.17
+                    ],
+                    "segment(frames)": [
+                        9415,
+                        9485
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        316.2,
+                        325.4
+                    ],
+                    "segment(frames)": [
+                        9486,
+                        9775
+                    ],
+                    "label_id": 2
+                }
+            ]
+        },
+        "set_1_game_6_paolini_andreeva": {
+            "subset": "test",
+            "duration": 278.27,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        0.0,
+                        2.7
+                    ],
+                    "segment(frames)": [
+                        0,
+                        81
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        2.73,
+                        5.13
+                    ],
+                    "segment(frames)": [
+                        82,
+                        157
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        5.17,
+                        6.07
+                    ],
+                    "segment(frames)": [
+                        155,
+                        188
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        6.37,
+                        23.93
+                    ],
+                    "segment(frames)": [
+                        189,
+                        718
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        23.97,
+                        26.5
+                    ],
+                    "segment(frames)": [
+                        719,
+                        799
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        26.53,
+                        51.73
+                    ],
+                    "segment(frames)": [
+                        800,
+                        1570
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        51.77,
+                        78.53
+                    ],
+                    "segment(frames)": [
+                        1571,
+                        2356
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        78.57,
+                        80.93
+                    ],
+                    "segment(frames)": [
+                        2357,
+                        2430
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        80.97,
+                        83.63
+                    ],
+                    "segment(frames)": [
+                        2431,
+                        2504
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        83.67,
+                        103.83
+                    ],
+                    "segment(frames)": [
+                        2505,
+                        3115
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        103.87,
+                        106.33
+                    ],
+                    "segment(frames)": [
+                        3116,
+                        3195
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        106.37,
+                        114.17
+                    ],
+                    "segment(frames)": [
+                        3196,
+                        3419
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        114.2,
+                        139.53
+                    ],
+                    "segment(frames)": [
+                        3420,
+                        4186
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        139.57,
+                        142.03
+                    ],
+                    "segment(frames)": [
+                        4187,
+                        4258
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        142.37,
+                        149.43
+                    ],
+                    "segment(frames)": [
+                        4259,
+                        4483
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        149.47,
+                        151.7
+                    ],
+                    "segment(frames)": [
+                        4484,
+                        4554
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        151.73,
+                        161.53
+                    ],
+                    "segment(frames)": [
+                        4552,
+                        4855
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        161.83,
+                        188.4
+                    ],
+                    "segment(frames)": [
+                        4856,
+                        5652
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        188.43,
+                        190.23
+                    ],
+                    "segment(frames)": [
+                        5653,
+                        5713
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        190.27,
+                        198.17
+                    ],
+                    "segment(frames)": [
+                        5714,
+                        5946
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        198.2,
+                        225.3
+                    ],
+                    "segment(frames)": [
+                        5947,
+                        6765
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        225.33,
+                        227.53
+                    ],
+                    "segment(frames)": [
+                        6766,
+                        6829
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        227.57,
+                        227.63
+                    ],
+                    "segment(frames)": [
+                        6830,
+                        7110
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        237.6,
+                        263.17
+                    ],
+                    "segment(frames)": [
+                        7111,
+                        7901
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        263.2,
+                        265.33
+                    ],
+                    "segment(frames)": [
+                        7902,
+                        7962
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        265.37,
+                        266.23
+                    ],
+                    "segment(frames)": [
+                        7963,
+                        7987
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        266.27,
+                        274.6
+                    ],
+                    "segment(frames)": [
+                        7988,
+                        8238
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        274.63,
+                        277.27
+                    ],
+                    "segment(frames)": [
+                        8239,
+                        8313
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        277.3,
+                        278.0
+                    ],
+                    "segment(frames)": [
+                        8314,
+                        8346
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "set_1_game_7_paolini_andreeva": {
+            "subset": "test",
+            "duration": 466.63,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        0.0,
+                        0.43
+                    ],
+                    "segment(frames)": [
+                        0,
+                        27
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0.47,
+                        2.53
+                    ],
+                    "segment(frames)": [
+                        28,
+                        92
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        2.57,
+                        15.57
+                    ],
+                    "segment(frames)": [
+                        93,
+                        410
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        15.6,
+                        38.83
+                    ],
+                    "segment(frames)": [
+                        411,
+                        1165
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        38.87,
+                        41.1
+                    ],
+                    "segment(frames)": [
+                        1166,
+                        1235
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        41.13,
+                        46.63
+                    ],
+                    "segment(frames)": [
+                        1234,
+                        1355
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        46.67,
+                        69.63
+                    ],
+                    "segment(frames)": [
+                        1356,
+                        2099
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        69.67,
+                        72.07
+                    ],
+                    "segment(frames)": [
+                        2100,
+                        2160
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        72.1,
+                        74.1
+                    ],
+                    "segment(frames)": [
+                        2161,
+                        2189
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        74.13,
+                        93.5
+                    ],
+                    "segment(frames)": [
+                        2190,
+                        2805
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        93.53,
+                        95.1
+                    ],
+                    "segment(frames)": [
+                        2806,
+                        2863
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        95.13,
+                        114.57
+                    ],
+                    "segment(frames)": [
+                        2864,
+                        3433
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        114.6,
+                        144.87
+                    ],
+                    "segment(frames)": [
+                        3434,
+                        4355
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        144.9,
+                        147.07
+                    ],
+                    "segment(frames)": [
+                        4356,
+                        4413
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        147.1,
+                        152.13
+                    ],
+                    "segment(frames)": [
+                        4414,
+                        4566
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        152.17,
+                        174.57
+                    ],
+                    "segment(frames)": [
+                        4567,
+                        5239
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        174.6,
+                        176.37
+                    ],
+                    "segment(frames)": [
+                        5240,
+                        5300
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        176.4,
+                        194.7
+                    ],
+                    "segment(frames)": [
+                        5301,
+                        5810
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        195.3,
+                        224.6
+                    ],
+                    "segment(frames)": [
+                        5811,
+                        6719
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        224.63,
+                        226.6
+                    ],
+                    "segment(frames)": [
+                        6720,
+                        6796
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        227.53,
+                        234.2
+                    ],
+                    "segment(frames)": [
+                        6797,
+                        7026
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        234.23,
+                        235.77
+                    ],
+                    "segment(frames)": [
+                        7027,
+                        7077
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        235.8,
+                        249.17
+                    ],
+                    "segment(frames)": [
+                        7078,
+                        7482
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        249.5,
+                        275.53
+                    ],
+                    "segment(frames)": [
+                        7483,
+                        8261
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        275.57,
+                        276.93
+                    ],
+                    "segment(frames)": [
+                        8262,
+                        8308
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        276.97,
+                        280.13
+                    ],
+                    "segment(frames)": [
+                        8309,
+                        8411
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        280.17,
+                        302.6
+                    ],
+                    "segment(frames)": [
+                        8412,
+                        9072
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        302.63,
+                        304.53
+                    ],
+                    "segment(frames)": [
+                        9073,
+                        9131
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        304.57,
+                        306.6
+                    ],
+                    "segment(frames)": [
+                        9132,
+                        9198
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        306.63,
+                        326.47
+                    ],
+                    "segment(frames)": [
+                        9199,
+                        9794
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        326.5,
+                        328.4
+                    ],
+                    "segment(frames)": [
+                        9795,
+                        9854
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        328.43,
+                        338.03
+                    ],
+                    "segment(frames)": [
+                        9855,
+                        10141
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        338.07,
+                        367.2
+                    ],
+                    "segment(frames)": [
+                        10142,
+                        10962
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        367.23,
+                        367.7
+                    ],
+                    "segment(frames)": [
+                        10963,
+                        11030
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        367.73,
+                        371.47
+                    ],
+                    "segment(frames)": [
+                        11031,
+                        11147
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        371.5,
+                        391.9
+                    ],
+                    "segment(frames)": [
+                        11145,
+                        11757
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        391.93,
+                        394.27
+                    ],
+                    "segment(frames)": [
+                        11758,
+                        11828
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        394.3,
+                        397.73
+                    ],
+                    "segment(frames)": [
+                        11829,
+                        11944
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        397.77,
+                        432.73
+                    ],
+                    "segment(frames)": [
+                        11945,
+                        12982
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        432.77,
+                        434.73
+                    ],
+                    "segment(frames)": [
+                        12983,
+                        13048
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        434.77,
+                        440.27
+                    ],
+                    "segment(frames)": [
+                        13043,
+                        13196
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        440.3,
+                        461.4
+                    ],
+                    "segment(frames)": [
+                        13197,
+                        13869
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        461.43,
+                        464.63
+                    ],
+                    "segment(frames)": [
+                        13870,
+                        13936
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        464.67,
+                        464.7
+                    ],
+                    "segment(frames)": [
+                        13940,
+                        13963
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        464.73,
+                        466.63
+                    ],
+                    "segment(frames)": [
+                        13964,
+                        13997
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "set_1_game_8_paolini_andreeva": {
+            "subset": "test",
+            "duration": 185.33,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        0.0,
+                        0.37
+                    ],
+                    "segment(frames)": [
+                        0,
+                        11
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0.4,
+                        2.27
+                    ],
+                    "segment(frames)": [
+                        12,
+                        74
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        2.3,
+                        11.8
+                    ],
+                    "segment(frames)": [
+                        75,
+                        349
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        11.83,
+                        30.73
+                    ],
+                    "segment(frames)": [
+                        350,
+                        930
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        30.77,
+                        33.33
+                    ],
+                    "segment(frames)": [
+                        931,
+                        1000
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        33.5,
+                        40.27
+                    ],
+                    "segment(frames)": [
+                        1001,
+                        1217
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        40.3,
+                        42.63
+                    ],
+                    "segment(frames)": [
+                        1218,
+                        1279
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        42.67,
+                        55.4
+                    ],
+                    "segment(frames)": [
+                        1280,
+                        1649
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        55.43,
+                        76.27
+                    ],
+                    "segment(frames)": [
+                        1650,
+                        2288
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        76.3,
+                        79.33
+                    ],
+                    "segment(frames)": [
+                        2289,
+                        2363
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        79.37,
+                        84.77
+                    ],
+                    "segment(frames)": [
+                        2364,
+                        2543
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        84.8,
+                        86.5
+                    ],
+                    "segment(frames)": [
+                        2544,
+                        2605
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        86.53,
+                        89.8
+                    ],
+                    "segment(frames)": [
+                        2606,
+                        2690
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        89.83,
+                        110.13
+                    ],
+                    "segment(frames)": [
+                        2691,
+                        3315
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        110.17,
+                        111.77
+                    ],
+                    "segment(frames)": [
+                        3316,
+                        3379
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        111.8,
+                        122.97
+                    ],
+                    "segment(frames)": [
+                        3380,
+                        3657
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        123.0,
+                        146.3
+                    ],
+                    "segment(frames)": [
+                        3658,
+                        4389
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        146.33,
+                        148.33
+                    ],
+                    "segment(frames)": [
+                        4390,
+                        4450
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        148.37,
+                        151.7
+                    ],
+                    "segment(frames)": [
+                        4451,
+                        4540
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        151.73,
+                        176.87
+                    ],
+                    "segment(frames)": [
+                        4541,
+                        5332
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        176.9,
+                        179.87
+                    ],
+                    "segment(frames)": [
+                        5333,
+                        5396
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        179.9,
+                        184.73
+                    ],
+                    "segment(frames)": [
+                        5397,
+                        5483
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        184.77,
+                        185.33
+                    ],
+                    "segment(frames)": [
+                        5484,
+                        5556
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "set_1_game_9_paolini_andreeva": {
+            "subset": "test",
+            "duration": 116.97,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0.27,
+                        1.13
+                    ],
+                    "segment(frames)": [
+                        0,
+                        49
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        1.17,
+                        8.03
+                    ],
+                    "segment(frames)": [
+                        50,
+                        226
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        8.07,
+                        27.4
+                    ],
+                    "segment(frames)": [
+                        227,
+                        822
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        27.43,
+                        29.53
+                    ],
+                    "segment(frames)": [
+                        823,
+                        893
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        29.57,
+                        36.27
+                    ],
+                    "segment(frames)": [
+                        894,
+                        1080
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        36.3,
+                        55.6
+                    ],
+                    "segment(frames)": [
+                        1081,
+                        1668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        55.63,
+                        57.43
+                    ],
+                    "segment(frames)": [
+                        1669,
+                        1734
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        57.47,
+                        67.07
+                    ],
+                    "segment(frames)": [
+                        1735,
+                        1990
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        67.1,
+                        89.4
+                    ],
+                    "segment(frames)": [
+                        1991,
+                        2704
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        89.43,
+                        92.0
+                    ],
+                    "segment(frames)": [
+                        2705,
+                        2768
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        92.03,
+                        93.2
+                    ],
+                    "segment(frames)": [
+                        2769,
+                        2796
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        93.23,
+                        112.2
+                    ],
+                    "segment(frames)": [
+                        2797,
+                        3366
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        112.23,
+                        114.27
+                    ],
+                    "segment(frames)": [
+                        3367,
+                        3431
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        114.3,
+                        115.9
+                    ],
+                    "segment(frames)": [
+                        3432,
+                        3460
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        115.93,
+                        116.77
+                    ],
+                    "segment(frames)": [
+                        3461,
+                        3508
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "set_2_game_1_paolini_andreeva": {
+            "subset": "test",
+            "duration": 198.93,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        0.0,
+                        3.9
+                    ],
+                    "segment(frames)": [
+                        0,
+                        100
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        3.93,
+                        5.27
+                    ],
+                    "segment(frames)": [
+                        101,
+                        164
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        5.3,
+                        9.4
+                    ],
+                    "segment(frames)": [
+                        165,
+                        200
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        9.43,
+                        26.07
+                    ],
+                    "segment(frames)": [
+                        201,
+                        792
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        26.1,
+                        29.07
+                    ],
+                    "segment(frames)": [
+                        793,
+                        868
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        29.1,
+                        34.83
+                    ],
+                    "segment(frames)": [
+                        869,
+                        1045
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        34.87,
+                        36.6
+                    ],
+                    "segment(frames)": [
+                        1046,
+                        1104
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        36.97,
+                        48.3
+                    ],
+                    "segment(frames)": [
+                        1105,
+                        1436
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        48.33,
+                        78.07
+                    ],
+                    "segment(frames)": [
+                        1437,
+                        2342
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        78.1,
+                        79.97
+                    ],
+                    "segment(frames)": [
+                        2343,
+                        2407
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        80.0,
+                        91.83
+                    ],
+                    "segment(frames)": [
+                        2408,
+                        2715
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        91.87,
+                        122.23
+                    ],
+                    "segment(frames)": [
+                        2756,
+                        3667
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        122.27,
+                        124.37
+                    ],
+                    "segment(frames)": [
+                        3668,
+                        3733
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        124.4,
+                        131.87
+                    ],
+                    "segment(frames)": [
+                        3734,
+                        3934
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        131.9,
+                        154.03
+                    ],
+                    "segment(frames)": [
+                        3935,
+                        4621
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        154.07,
+                        156.07
+                    ],
+                    "segment(frames)": [
+                        4622,
+                        4686
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        157.03,
+                        171.8
+                    ],
+                    "segment(frames)": [
+                        4687,
+                        5157
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        171.83,
+                        192.87
+                    ],
+                    "segment(frames)": [
+                        5158,
+                        5786
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        192.9,
+                        195.07
+                    ],
+                    "segment(frames)": [
+                        5787,
+                        5856
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        195.1,
+                        198.3
+                    ],
+                    "segment(frames)": [
+                        5853,
+                        5943
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        198.33,
+                        198.93
+                    ],
+                    "segment(frames)": [
+                        5944,
+                        5967
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "set_2_game_2_paolini_andreeva": {
+            "subset": "test",
+            "duration": 180.17,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        0.0,
+                        0.63
+                    ],
+                    "segment(frames)": [
+                        0,
+                        39
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0.67,
+                        3.13
+                    ],
+                    "segment(frames)": [
+                        40,
+                        96
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        3.17,
+                        7.7
+                    ],
+                    "segment(frames)": [
+                        97,
+                        217
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        7.73,
+                        26.5
+                    ],
+                    "segment(frames)": [
+                        218,
+                        799
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        26.53,
+                        28.7
+                    ],
+                    "segment(frames)": [
+                        800,
+                        864
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        28.73,
+                        29.57
+                    ],
+                    "segment(frames)": [
+                        865,
+                        887
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        29.6,
+                        38.2
+                    ],
+                    "segment(frames)": [
+                        888,
+                        1146
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        38.23,
+                        40.17
+                    ],
+                    "segment(frames)": [
+                        1147,
+                        1205
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        40.2,
+                        40.97
+                    ],
+                    "segment(frames)": [
+                        1206,
+                        1229
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        41.0,
+                        48.1
+                    ],
+                    "segment(frames)": [
+                        1230,
+                        1445
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        48.13,
+                        50.17
+                    ],
+                    "segment(frames)": [
+                        1446,
+                        1503
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        50.2,
+                        56.07
+                    ],
+                    "segment(frames)": [
+                        1504,
+                        1671
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        56.1,
+                        62.07
+                    ],
+                    "segment(frames)": [
+                        1672,
+                        2371
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        78.57,
+                        81.33
+                    ],
+                    "segment(frames)": [
+                        2372,
+                        2442
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        81.37,
+                        84.03
+                    ],
+                    "segment(frames)": [
+                        2441,
+                        2509
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        84.07,
+                        102.03
+                    ],
+                    "segment(frames)": [
+                        2510,
+                        3061
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        102.07,
+                        104.37
+                    ],
+                    "segment(frames)": [
+                        3062,
+                        3133
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        104.4,
+                        105.47
+                    ],
+                    "segment(frames)": [
+                        3134,
+                        3164
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        105.5,
+                        113.13
+                    ],
+                    "segment(frames)": [
+                        3165,
+                        3414
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        113.17,
+                        115.77
+                    ],
+                    "segment(frames)": [
+                        3415,
+                        3475
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        115.8,
+                        125.4
+                    ],
+                    "segment(frames)": [
+                        3476,
+                        3745
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        125.43,
+                        153.83
+                    ],
+                    "segment(frames)": [
+                        3746,
+                        4615
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        153.87,
+                        155.67
+                    ],
+                    "segment(frames)": [
+                        4616,
+                        4670
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        155.7,
+                        159.53
+                    ],
+                    "segment(frames)": [
+                        4671,
+                        4706
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        159.57,
+                        175.87
+                    ],
+                    "segment(frames)": [
+                        4707,
+                        5264
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        175.9,
+                        177.3
+                    ],
+                    "segment(frames)": [
+                        5265,
+                        5319
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        177.33,
+                        179.7
+                    ],
+                    "segment(frames)": [
+                        5320,
+                        5357
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        179.73,
+                        179.87
+                    ],
+                    "segment(frames)": [
+                        5358,
+                        5404
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "set_2_game_3_paolini_andreeva": {
+            "subset": "test",
+            "duration": 202.43,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        0.0,
+                        0.2
+                    ],
+                    "segment(frames)": [
+                        0,
+                        6
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0.23,
+                        1.4
+                    ],
+                    "segment(frames)": [
+                        7,
+                        68
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        1.43,
+                        7.97
+                    ],
+                    "segment(frames)": [
+                        69,
+                        226
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        8.0,
+                        32.0
+                    ],
+                    "segment(frames)": [
+                        227,
+                        955
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        32.03,
+                        33.5
+                    ],
+                    "segment(frames)": [
+                        956,
+                        1013
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        33.53,
+                        39.73
+                    ],
+                    "segment(frames)": [
+                        1014,
+                        1213
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        39.77,
+                        42.6
+                    ],
+                    "segment(frames)": [
+                        1214,
+                        1278
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        42.63,
+                        54.87
+                    ],
+                    "segment(frames)": [
+                        1279,
+                        1634
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        54.9,
+                        80.23
+                    ],
+                    "segment(frames)": [
+                        1635,
+                        2407
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        80.27,
+                        81.83
+                    ],
+                    "segment(frames)": [
+                        2390,
+                        2446
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        81.87,
+                        89.03
+                    ],
+                    "segment(frames)": [
+                        2447,
+                        2658
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        89.07,
+                        90.83
+                    ],
+                    "segment(frames)": [
+                        2659,
+                        2717
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        90.93,
+                        118.6
+                    ],
+                    "segment(frames)": [
+                        2718,
+                        3542
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        118.63,
+                        119.93
+                    ],
+                    "segment(frames)": [
+                        3543,
+                        3598
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        119.97,
+                        120.9
+                    ],
+                    "segment(frames)": [
+                        3599,
+                        3625
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        120.93,
+                        126.27
+                    ],
+                    "segment(frames)": [
+                        3625,
+                        3779
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        126.3,
+                        127.67
+                    ],
+                    "segment(frames)": [
+                        3780,
+                        3830
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        127.7,
+                        130.5
+                    ],
+                    "segment(frames)": [
+                        3831,
+                        3910
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        130.53,
+                        152.6
+                    ],
+                    "segment(frames)": [
+                        3911,
+                        4562
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        152.63,
+                        154.27
+                    ],
+                    "segment(frames)": [
+                        4563,
+                        4630
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        154.3,
+                        159.63
+                    ],
+                    "segment(frames)": [
+                        4631,
+                        4789
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        159.67,
+                        189.23
+                    ],
+                    "segment(frames)": [
+                        4790,
+                        5660
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        189.27,
+                        190.53
+                    ],
+                    "segment(frames)": [
+                        5661,
+                        5716
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        190.57,
+                        193.63
+                    ],
+                    "segment(frames)": [
+                        5717,
+                        5900
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        193.67,
+                        198.7
+                    ],
+                    "segment(frames)": [
+                        5901,
+                        5961
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        198.73,
+                        202.13
+                    ],
+                    "segment(frames)": [
+                        5962,
+                        6051
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        202.17,
+                        202.17
+                    ],
+                    "segment(frames)": [
+                        6052,
+                        6069
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "set_2_game_4_paolini_andreeva": {
+            "subset": "test",
+            "duration": 191.3,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0.33,
+                        1.53
+                    ],
+                    "segment(frames)": [
+                        0,
+                        55
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        1.57,
+                        6.13
+                    ],
+                    "segment(frames)": [
+                        56,
+                        177
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        6.17,
+                        20.5
+                    ],
+                    "segment(frames)": [
+                        178,
+                        615
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        20.53,
+                        22.07
+                    ],
+                    "segment(frames)": [
+                        616,
+                        674
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        22.1,
+                        31.17
+                    ],
+                    "segment(frames)": [
+                        675,
+                        935
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        31.2,
+                        52.43
+                    ],
+                    "segment(frames)": [
+                        936,
+                        1573
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        52.47,
+                        54.37
+                    ],
+                    "segment(frames)": [
+                        1574,
+                        1632
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        54.4,
+                        54.8
+                    ],
+                    "segment(frames)": [
+                        1633,
+                        1659
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        54.83,
+                        74.67
+                    ],
+                    "segment(frames)": [
+                        1660,
+                        2238
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        74.7,
+                        76.47
+                    ],
+                    "segment(frames)": [
+                        2239,
+                        2296
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        76.5,
+                        77.47
+                    ],
+                    "segment(frames)": [
+                        2297,
+                        2324
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        77.5,
+                        84.57
+                    ],
+                    "segment(frames)": [
+                        2325,
+                        2537
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        84.6,
+                        86.33
+                    ],
+                    "segment(frames)": [
+                        2538,
+                        2590
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        86.37,
+                        108.57
+                    ],
+                    "segment(frames)": [
+                        2591,
+                        3238
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        108.6,
+                        140.17
+                    ],
+                    "segment(frames)": [
+                        3239,
+                        4205
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        140.2,
+                        142.83
+                    ],
+                    "segment(frames)": [
+                        4206,
+                        4276
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        143.03,
+                        149.3
+                    ],
+                    "segment(frames)": [
+                        4291,
+                        4498
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        149.33,
+                        151.97
+                    ],
+                    "segment(frames)": [
+                        4499,
+                        4556
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        152.0,
+                        153.13
+                    ],
+                    "segment(frames)": [
+                        4557,
+                        4587
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        153.17,
+                        174.6
+                    ],
+                    "segment(frames)": [
+                        4588,
+                        5232
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        174.63,
+                        176.53
+                    ],
+                    "segment(frames)": [
+                        5233,
+                        5291
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        176.57,
+                        176.87
+                    ],
+                    "segment(frames)": [
+                        5292,
+                        5314
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        176.9,
+                        183.03
+                    ],
+                    "segment(frames)": [
+                        5315,
+                        5491
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        183.07,
+                        185.13
+                    ],
+                    "segment(frames)": [
+                        5492,
+                        5554
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        185.17,
+                        189.93
+                    ],
+                    "segment(frames)": [
+                        5555,
+                        5696
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        189.97,
+                        191.3
+                    ],
+                    "segment(frames)": [
+                        5697,
+                        5730
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "set_2_game_5_paolini_andreeva": {
+            "subset": "test",
+            "duration": 178.93,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        0.0,
+                        0.53
+                    ],
+                    "segment(frames)": [
+                        0,
+                        40
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0.57,
+                        3.1
+                    ],
+                    "segment(frames)": [
+                        41,
+                        101
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        3.13,
+                        5.93
+                    ],
+                    "segment(frames)": [
+                        94,
+                        175
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        5.97,
+                        30.97
+                    ],
+                    "segment(frames)": [
+                        179,
+                        946
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        31.03,
+                        33.37
+                    ],
+                    "segment(frames)": [
+                        947,
+                        1003
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        33.4,
+                        34.53
+                    ],
+                    "segment(frames)": [
+                        1004,
+                        1036
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        34.57,
+                        39.3
+                    ],
+                    "segment(frames)": [
+                        1037,
+                        1186
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        39.33,
+                        41.5
+                    ],
+                    "segment(frames)": [
+                        1187,
+                        1248
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        41.53,
+                        53.13
+                    ],
+                    "segment(frames)": [
+                        1249,
+                        1590
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        53.17,
+                        83.57
+                    ],
+                    "segment(frames)": [
+                        1591,
+                        2507
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        83.6,
+                        86.1
+                    ],
+                    "segment(frames)": [
+                        2508,
+                        2577
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        86.13,
+                        86.27
+                    ],
+                    "segment(frames)": [
+                        2584,
+                        2609
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        86.3,
+                        93.1
+                    ],
+                    "segment(frames)": [
+                        2610,
+                        2793
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        93.13,
+                        95.2
+                    ],
+                    "segment(frames)": [
+                        2794,
+                        2859
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        95.23,
+                        100.43
+                    ],
+                    "segment(frames)": [
+                        2860,
+                        3013
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        100.47,
+                        128.2
+                    ],
+                    "segment(frames)": [
+                        3014,
+                        3846
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        128.23,
+                        130.43
+                    ],
+                    "segment(frames)": [
+                        3847,
+                        3915
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        130.47,
+                        133.0
+                    ],
+                    "segment(frames)": [
+                        3916,
+                        3994
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        133.03,
+                        168.67
+                    ],
+                    "segment(frames)": [
+                        3995,
+                        5060
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        168.7,
+                        170.93
+                    ],
+                    "segment(frames)": [
+                        5061,
+                        5130
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        170.97,
+                        178.3
+                    ],
+                    "segment(frames)": [
+                        5131,
+                        5318
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        178.33,
+                        178.73
+                    ],
+                    "segment(frames)": [
+                        5350,
+                        5363
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "set_2_game_6_paolini_andreeva": {
+            "subset": "test",
+            "duration": 258.4,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0.0,
+                        1.53
+                    ],
+                    "segment(frames)": [
+                        0,
+                        51
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        1.57,
+                        17.27
+                    ],
+                    "segment(frames)": [
+                        52,
+                        518
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        17.3,
+                        40.93
+                    ],
+                    "segment(frames)": [
+                        519,
+                        1236
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        40.97,
+                        43.1
+                    ],
+                    "segment(frames)": [
+                        1237,
+                        1293
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        43.13,
+                        52.3
+                    ],
+                    "segment(frames)": [
+                        1294,
+                        1569
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        52.33,
+                        75.67
+                    ],
+                    "segment(frames)": [
+                        1570,
+                        2282
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        75.7,
+                        78.07
+                    ],
+                    "segment(frames)": [
+                        2283,
+                        2342
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        78.1,
+                        85.97
+                    ],
+                    "segment(frames)": [
+                        2343,
+                        2583
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        86.0,
+                        106.87
+                    ],
+                    "segment(frames)": [
+                        2584,
+                        3206
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        106.9,
+                        108.83
+                    ],
+                    "segment(frames)": [
+                        3207,
+                        3263
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        109.13,
+                        127.73
+                    ],
+                    "segment(frames)": [
+                        3264,
+                        3844
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        127.77,
+                        130.03
+                    ],
+                    "segment(frames)": [
+                        3845,
+                        3904
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        130.13,
+                        146.1
+                    ],
+                    "segment(frames)": [
+                        3905,
+                        4360
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        146.2,
+                        168.63
+                    ],
+                    "segment(frames)": [
+                        4361,
+                        5059
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        168.67,
+                        170.3
+                    ],
+                    "segment(frames)": [
+                        5060,
+                        5114
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        170.33,
+                        178.33
+                    ],
+                    "segment(frames)": [
+                        5115,
+                        5353
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        178.37,
+                        205.67
+                    ],
+                    "segment(frames)": [
+                        5354,
+                        6189
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        205.7,
+                        208.1
+                    ],
+                    "segment(frames)": [
+                        6190,
+                        6248
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        208.13,
+                        220.83
+                    ],
+                    "segment(frames)": [
+                        6249,
+                        6625
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        220.87,
+                        248.8
+                    ],
+                    "segment(frames)": [
+                        6626,
+                        7464
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        248.83,
+                        250.67
+                    ],
+                    "segment(frames)": [
+                        7465,
+                        7521
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        250.7,
+                        257.67
+                    ],
+                    "segment(frames)": [
+                        7522,
+                        7715
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        257.7,
+                        258.4
+                    ],
+                    "segment(frames)": [
+                        7717,
+                        7748
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "set_2_game_7_paolini_andreeva": {
+            "subset": "test",
+            "duration": 147.63,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        0.0,
+                        0.23
+                    ],
+                    "segment(frames)": [
+                        0,
+                        7
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0.4,
+                        2.03
+                    ],
+                    "segment(frames)": [
+                        8,
+                        64
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        5.47,
+                        9.47
+                    ],
+                    "segment(frames)": [
+                        65,
+                        289
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        9.5,
+                        11.77
+                    ],
+                    "segment(frames)": [
+                        290,
+                        353
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        11.8,
+                        28.67
+                    ],
+                    "segment(frames)": [
+                        354,
+                        829
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        28.7,
+                        54.0
+                    ],
+                    "segment(frames)": [
+                        830,
+                        1603
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        54.03,
+                        55.37
+                    ],
+                    "segment(frames)": [
+                        1604,
+                        1662
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        55.4,
+                        59.5
+                    ],
+                    "segment(frames)": [
+                        1663,
+                        1788
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        59.53,
+                        85.47
+                    ],
+                    "segment(frames)": [
+                        1789,
+                        2635
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        85.5,
+                        89.6
+                    ],
+                    "segment(frames)": [
+                        2636,
+                        2684
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        90.07,
+                        94.73
+                    ],
+                    "segment(frames)": [
+                        2685,
+                        2842
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        94.77,
+                        96.8
+                    ],
+                    "segment(frames)": [
+                        2843,
+                        2902
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        96.83,
+                        106.63
+                    ],
+                    "segment(frames)": [
+                        2903,
+                        3196
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        106.67,
+                        132.17
+                    ],
+                    "segment(frames)": [
+                        3197,
+                        3965
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        132.2,
+                        134.13
+                    ],
+                    "segment(frames)": [
+                        3966,
+                        4024
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        134.17,
+                        146.53
+                    ],
+                    "segment(frames)": [
+                        4025,
+                        4395
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        146.57,
+                        147.63
+                    ],
+                    "segment(frames)": [
+                        4396,
+                        4421
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "game_1_tsitsipas_rune": {
+            "subset": "test",
+            "duration": 154.93,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        0.0,
+                        6.3
+                    ],
+                    "segment(frames)": [
+                        0,
+                        185
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        6.17,
+                        8.63
+                    ],
+                    "segment(frames)": [
+                        186,
+                        259
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        8.67,
+                        16.73
+                    ],
+                    "segment(frames)": [
+                        260,
+                        502
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        16.77,
+                        41.63
+                    ],
+                    "segment(frames)": [
+                        503,
+                        1249
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        41.67,
+                        43.83
+                    ],
+                    "segment(frames)": [
+                        1250,
+                        1315
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        43.87,
+                        46.27
+                    ],
+                    "segment(frames)": [
+                        1316,
+                        1388
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        46.3,
+                        65.77
+                    ],
+                    "segment(frames)": [
+                        1389,
+                        1973
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        65.8,
+                        68.03
+                    ],
+                    "segment(frames)": [
+                        1974,
+                        2041
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        68.07,
+                        68.87
+                    ],
+                    "segment(frames)": [
+                        2042,
+                        2066
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        68.9,
+                        76.83
+                    ],
+                    "segment(frames)": [
+                        2067,
+                        2305
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        76.87,
+                        78.77
+                    ],
+                    "segment(frames)": [
+                        2306,
+                        2363
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        78.8,
+                        81.13
+                    ],
+                    "segment(frames)": [
+                        2364,
+                        2434
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        81.17,
+                        97.43
+                    ],
+                    "segment(frames)": [
+                        2435,
+                        2923
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        97.47,
+                        99.33
+                    ],
+                    "segment(frames)": [
+                        2924,
+                        2980
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        99.37,
+                        116.17
+                    ],
+                    "segment(frames)": [
+                        2981,
+                        3485
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        116.2,
+                        136.03
+                    ],
+                    "segment(frames)": [
+                        3486,
+                        4081
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        136.07,
+                        138.4
+                    ],
+                    "segment(frames)": [
+                        4082,
+                        4152
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        138.43,
+                        145.87
+                    ],
+                    "segment(frames)": [
+                        4153,
+                        4376
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        145.9,
+                        148.07
+                    ],
+                    "segment(frames)": [
+                        4377,
+                        4442
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        148.2,
+                        152.33
+                    ],
+                    "segment(frames)": [
+                        4446,
+                        4570
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        152.37,
+                        154.33
+                    ],
+                    "segment(frames)": [
+                        4571,
+                        4630
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "game_2_tsitsipas_rune": {
+            "subset": "test",
+            "duration": 142.5,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        0.0,
+                        0.4
+                    ],
+                    "segment(frames)": [
+                        0,
+                        12
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0.43,
+                        2.5
+                    ],
+                    "segment(frames)": [
+                        13,
+                        75
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        2.53,
+                        8.23
+                    ],
+                    "segment(frames)": [
+                        76,
+                        247
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        8.27,
+                        10.03
+                    ],
+                    "segment(frames)": [
+                        248,
+                        301
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        10.07,
+                        35.23
+                    ],
+                    "segment(frames)": [
+                        302,
+                        1057
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        35.26,
+                        70.53
+                    ],
+                    "segment(frames)": [
+                        1058,
+                        2116
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        70.57,
+                        72.76
+                    ],
+                    "segment(frames)": [
+                        2117,
+                        2183
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        72.8,
+                        77.77
+                    ],
+                    "segment(frames)": [
+                        2184,
+                        2333
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        77.8,
+                        103.4
+                    ],
+                    "segment(frames)": [
+                        2334,
+                        3102
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        103.43,
+                        105.37
+                    ],
+                    "segment(frames)": [
+                        3103,
+                        3161
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        105.4,
+                        106.17
+                    ],
+                    "segment(frames)": [
+                        3162,
+                        3185
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        106.2,
+                        113.37
+                    ],
+                    "segment(frames)": [
+                        3186,
+                        3401
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        113.4,
+                        115.27
+                    ],
+                    "segment(frames)": [
+                        3402,
+                        3458
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        115.3,
+                        117.63
+                    ],
+                    "segment(frames)": [
+                        3459,
+                        3529
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        117.66,
+                        139.57
+                    ],
+                    "segment(frames)": [
+                        3530,
+                        4187
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        139.6,
+                        141.27
+                    ],
+                    "segment(frames)": [
+                        4188,
+                        4238
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        141.3,
+                        142.47
+                    ],
+                    "segment(frames)": [
+                        4239,
+                        4274
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "random_game_tsitsipas_rune": {
+            "subset": "test",
+            "duration": 226.73,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        0.0,
+                        0.73
+                    ],
+                    "segment(frames)": [
+                        0,
+                        22
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0.77,
+                        3.13
+                    ],
+                    "segment(frames)": [
+                        23,
+                        94
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        3.17,
+                        6.27
+                    ],
+                    "segment(frames)": [
+                        95,
+                        188
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        6.3,
+                        23.8
+                    ],
+                    "segment(frames)": [
+                        189,
+                        714
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        23.83,
+                        25.9
+                    ],
+                    "segment(frames)": [
+                        715,
+                        777
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        25.93,
+                        32.5
+                    ],
+                    "segment(frames)": [
+                        778,
+                        975
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        32.53,
+                        34.27
+                    ],
+                    "segment(frames)": [
+                        976,
+                        1028
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        34.3,
+                        51.57
+                    ],
+                    "segment(frames)": [
+                        1029,
+                        1547
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        51.6,
+                        53.6
+                    ],
+                    "segment(frames)": [
+                        1548,
+                        1608
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        53.63,
+                        54.73
+                    ],
+                    "segment(frames)": [
+                        1609,
+                        1642
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        54.76,
+                        69.1
+                    ],
+                    "segment(frames)": [
+                        1643,
+                        2073
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        69.13,
+                        70.57
+                    ],
+                    "segment(frames)": [
+                        2074,
+                        2117
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        70.6,
+                        73.9
+                    ],
+                    "segment(frames)": [
+                        2118,
+                        2217
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        73.93,
+                        94.67
+                    ],
+                    "segment(frames)": [
+                        2218,
+                        2840
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        94.7,
+                        96.4
+                    ],
+                    "segment(frames)": [
+                        2841,
+                        2892
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        96.43,
+                        103.07
+                    ],
+                    "segment(frames)": [
+                        2893,
+                        3092
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        103.1,
+                        104.73
+                    ],
+                    "segment(frames)": [
+                        3093,
+                        3142
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        104.77,
+                        106.97
+                    ],
+                    "segment(frames)": [
+                        3143,
+                        3209
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        104.8,
+                        131.87
+                    ],
+                    "segment(frames)": [
+                        3144,
+                        3956
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        131.9,
+                        133.6
+                    ],
+                    "segment(frames)": [
+                        3957,
+                        4008
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        133.63,
+                        139
+                    ],
+                    "segment(frames)": [
+                        4009,
+                        4170
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        139.03,
+                        184.6
+                    ],
+                    "segment(frames)": [
+                        4171,
+                        5538
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        184.63,
+                        185.53
+                    ],
+                    "segment(frames)": [
+                        5539,
+                        5566
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        185.57,
+                        191.3
+                    ],
+                    "segment(frames)": [
+                        5567,
+                        5739
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        191.33,
+                        193.23
+                    ],
+                    "segment(frames)": [
+                        5740,
+                        5797
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        193.27,
+                        197.43
+                    ],
+                    "segment(frames)": [
+                        5798,
+                        5923
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        197.47,
+                        222.37
+                    ],
+                    "segment(frames)": [
+                        5924,
+                        6671
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        222.4,
+                        224.63
+                    ],
+                    "segment(frames)": [
+                        6672,
+                        6739
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "EXCHANGE",
+                    "segment": [
+                        224.67,
+                        225.6
+                    ],
+                    "segment(frames)": [
+                        6740,
+                        6768
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "OTHER",
+                    "segment": [
+                        225.63,
+                        226.7
+                    ],
+                    "segment(frames)": [
+                        6769,
+                        6801
+                    ],
+                    "label_id": 0
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,68 @@
+dataset_name: Tennis_new
+train_split: ['train']
+val_split: ['test']
+#val_split: ['validation']
+dataset: {
+  #json_file: ./data/Tennis/annotations/Tennis_games.json,
+  #json_file: ./data/Tennis/annotations/Processed_Simplified_Tennis_games.json,
+  #json_file: ./data/Tennis/annotations/Tennis_hayden.json ,
+  json_file: ./data/Tennis/annotations/All_test_games_ground_truth.json,
+  #feat_folder: ./Tennis_features,
+  #feat_folder: ./Tennis_features_stride_2,
+  #feat_folder: ./features_hayden_set,
+  feat_folder: ./our_dataset/game_features,
+  file_prefix: ~,
+
+  file_ext: .npy,
+  # note that in general there are 11 classes but for the V006 there's only 10 classes (SNL isn't present)
+  num_classes: 3,
+  input_dim: 1408,
+  feature_type: "_spatial_feature",
+  #2048+768, 1024+768,1280+1024
+  feat_stride: 2,
+  num_frames: 16,
+  # serve as data augmentation
+  trunc_thresh: 0.5,
+  crop_ratio: [0.9, 1.0],
+  #crop_ratio : None ,
+  max_seq_len: 9216,
+  #max_seq_len: 2304,
+}
+model: {
+  backbone_type: mamba,
+  backbone_arch: [2, 2, 5],
+  fpn_type: identity,
+  max_buffer_len_factor: 6.0,
+  n_mha_win_size: 19,
+}
+opt: {
+  learning_rate: 0.0001,
+  epochs: 80,
+  weight_decay: 0.05,
+}
+loader: {
+  batch_size : 1,
+}
+train_cfg: {
+  init_loss_norm: 100,
+  clip_grad_l2norm: 1.0,
+  cls_prior_prob: 0.01,
+  center_sample: radius,
+  center_sample_radius: 1.5,
+  droppath: 0.1,
+}
+# the inference on THUMOS is quite different from EPIC-kitchens
+# a major performance gain is achieved by fusing external classification scores
+# doing so will require disable multiclass_nms and enable score fusion
+test_cfg: {
+  voting_thresh: 0.7,
+  pre_nms_topk: 2000,
+  max_seg_num: 200,
+  min_score: 0.001,
+  # when using external scores, our model is generating "proposals"
+  # multiclass_nms: False,
+  # ext_score_file: ./data/thumos/annotations/thumos14_cls_scores.pkl,
+  # comment out L47-48 and uncomment L50 to disable score fusion
+  multiclass_nms: True,
+}
+output_folder: ./ckpt_tennis/
