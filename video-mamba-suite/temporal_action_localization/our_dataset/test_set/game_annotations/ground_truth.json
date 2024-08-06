@@ -1,0 +1,841 @@
+{
+    "database": {
+        "game_1_tsitsipas_rune": {
+            "subset": "test",
+            "duration": 154.93333333333334,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        0.0,
+                        6.3
+                    ],
+                    "segment(frames)": [
+                        0,
+                        185
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        6.17,
+                        8.63
+                    ],
+                    "segment(frames)": [
+                        186,
+                        259
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        8.67,
+                        16.73
+                    ],
+                    "segment(frames)": [
+                        260,
+                        502
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        16.77,
+                        41.63
+                    ],
+                    "segment(frames)": [
+                        503,
+                        1249
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        41.67,
+                        43.83
+                    ],
+                    "segment(frames)": [
+                        1250,
+                        1315
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        43.87,
+                        46.27
+                    ],
+                    "segment(frames)": [
+                        1316,
+                        1388
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        46.3,
+                        65.77
+                    ],
+                    "segment(frames)": [
+                        1389,
+                        1973
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        65.8,
+                        68.03
+                    ],
+                    "segment(frames)": [
+                        1974,
+                        2041
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        68.07,
+                        68.87
+                    ],
+                    "segment(frames)": [
+                        2042,
+                        2066
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        68.9,
+                        76.83
+                    ],
+                    "segment(frames)": [
+                        2067,
+                        2305
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        76.87,
+                        78.77
+                    ],
+                    "segment(frames)": [
+                        2306,
+                        2363
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        78.8,
+                        81.13
+                    ],
+                    "segment(frames)": [
+                        2364,
+                        2434
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        81.17,
+                        97.43
+                    ],
+                    "segment(frames)": [
+                        2435,
+                        2923
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        97.47,
+                        99.33
+                    ],
+                    "segment(frames)": [
+                        2924,
+                        2980
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        99.37,
+                        116.17
+                    ],
+                    "segment(frames)": [
+                        2981,
+                        3485
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        116.2,
+                        136.03
+                    ],
+                    "segment(frames)": [
+                        3486,
+                        4081
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        136.07,
+                        138.4
+                    ],
+                    "segment(frames)": [
+                        4082,
+                        4152
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        138.43,
+                        145.87
+                    ],
+                    "segment(frames)": [
+                        4153,
+                        4376
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        145.9,
+                        148.07
+                    ],
+                    "segment(frames)": [
+                        4377,
+                        4442
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        148.2,
+                        152.33
+                    ],
+                    "segment(frames)": [
+                        4446,
+                        4570
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        152.37,
+                        154.33
+                    ],
+                    "segment(frames)": [
+                        4571,
+                        4630
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "game_2_tsitsipas_rune": {
+            "subset": "test",
+            "duration": 142.5,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        0.0,
+                        0.4
+                    ],
+                    "segment(frames)": [
+                        0,
+                        12
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0.43,
+                        2.5
+                    ],
+                    "segment(frames)": [
+                        13,
+                        75
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        2.53,
+                        8.23
+                    ],
+                    "segment(frames)": [
+                        76,
+                        247
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        8.27,
+                        10.03
+                    ],
+                    "segment(frames)": [
+                        248,
+                        301
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        10.07,
+                        35.23
+                    ],
+                    "segment(frames)": [
+                        302,
+                        1057
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        35.26,
+                        70.53
+                    ],
+                    "segment(frames)": [
+                        1058,
+                        2116
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        70.57,
+                        72.76
+                    ],
+                    "segment(frames)": [
+                        2117,
+                        2183
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        72.8,
+                        77.77
+                    ],
+                    "segment(frames)": [
+                        2184,
+                        2333
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        77.8,
+                        103.4
+                    ],
+                    "segment(frames)": [
+                        2334,
+                        3102
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        103.43,
+                        105.37
+                    ],
+                    "segment(frames)": [
+                        3103,
+                        3161
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        105.4,
+                        106.17
+                    ],
+                    "segment(frames)": [
+                        3162,
+                        3185
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        106.2,
+                        113.37
+                    ],
+                    "segment(frames)": [
+                        3186,
+                        3401
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        113.4,
+                        115.27
+                    ],
+                    "segment(frames)": [
+                        3402,
+                        3458
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        115.3,
+                        117.63
+                    ],
+                    "segment(frames)": [
+                        3459,
+                        3529
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        117.66,
+                        139.57
+                    ],
+                    "segment(frames)": [
+                        3530,
+                        4187
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        139.6,
+                        141.27
+                    ],
+                    "segment(frames)": [
+                        4188,
+                        4238
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        141.3,
+                        142.47
+                    ],
+                    "segment(frames)": [
+                        4239,
+                        4274
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "random_game_tsitsipas_rune": {
+            "subset": "test",
+            "duration": 226.73333333333332,
+            "fps": 30.0,
+            "annotations": [
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        0.0,
+                        0.73
+                    ],
+                    "segment(frames)": [
+                        0,
+                        22
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        0.77,
+                        3.13
+                    ],
+                    "segment(frames)": [
+                        23,
+                        94
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        3.17,
+                        6.27
+                    ],
+                    "segment(frames)": [
+                        95,
+                        188
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        6.3,
+                        23.8
+                    ],
+                    "segment(frames)": [
+                        189,
+                        714
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        23.83,
+                        25.9
+                    ],
+                    "segment(frames)": [
+                        715,
+                        777
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        25.93,
+                        32.5
+                    ],
+                    "segment(frames)": [
+                        778,
+                        975
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        32.53,
+                        34.27
+                    ],
+                    "segment(frames)": [
+                        976,
+                        1028
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        34.3,
+                        51.57
+                    ],
+                    "segment(frames)": [
+                        1029,
+                        1547
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        51.6,
+                        53.6
+                    ],
+                    "segment(frames)": [
+                        1548,
+                        1608
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        53.63,
+                        54.73
+                    ],
+                    "segment(frames)": [
+                        1609,
+                        1642
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        54.76,
+                        69.1
+                    ],
+                    "segment(frames)": [
+                        1643,
+                        2073
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        69.13,
+                        70.57
+                    ],
+                    "segment(frames)": [
+                        2074,
+                        2117
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        70.6,
+                        73.9
+                    ],
+                    "segment(frames)": [
+                        2118,
+                        2217
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        73.93,
+                        94.67
+                    ],
+                    "segment(frames)": [
+                        2218,
+                        2840
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        94.7,
+                        96.4
+                    ],
+                    "segment(frames)": [
+                        2841,
+                        2892
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        96.43,
+                        103.07
+                    ],
+                    "segment(frames)": [
+                        2893,
+                        3092
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        103.1,
+                        104.73
+                    ],
+                    "segment(frames)": [
+                        3093,
+                        3142
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        104.77,
+                        106.97
+                    ],
+                    "segment(frames)": [
+                        3143,
+                        3209
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        104.8,
+                        131.87
+                    ],
+                    "segment(frames)": [
+                        3144,
+                        3956
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        131.9,
+                        133.6
+                    ],
+                    "segment(frames)": [
+                        3957,
+                        4008
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        133.63,
+                        139
+                    ],
+                    "segment(frames)": [
+                        4009,
+                        4170
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        139.03,
+                        184.6
+                    ],
+                    "segment(frames)": [
+                        4171,
+                        5538
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        184.63,
+                        185.53
+                    ],
+                    "segment(frames)": [
+                        5539,
+                        5566
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        185.57,
+                        191.3
+                    ],
+                    "segment(frames)": [
+                        5567,
+                        5739
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        191.33,
+                        193.23
+                    ],
+                    "segment(frames)": [
+                        5740,
+                        5797
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        193.27,
+                        197.43
+                    ],
+                    "segment(frames)": [
+                        5798,
+                        5923
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        197.47,
+                        222.37
+                    ],
+                    "segment(frames)": [
+                        5924,
+                        6671
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "SERVICE",
+                    "segment": [
+                        222.4,
+                        224.63
+                    ],
+                    "segment(frames)": [
+                        6672,
+                        6739
+                    ],
+                    "label_id": 1
+                },
+                {
+                    "label": "ECHANGE",
+                    "segment": [
+                        224.67,
+                        225.6
+                    ],
+                    "segment(frames)": [
+                        6740,
+                        6768
+                    ],
+                    "label_id": 2
+                },
+                {
+                    "label": "PHASE DE NON-JEU",
+                    "segment": [
+                        225.63,
+                        226.7
+                    ],
+                    "segment(frames)": [
+                        6769,
+                        6801
+                    ],
+                    "label_id": 0
+                }
+            ]
+        }
+    }
+}

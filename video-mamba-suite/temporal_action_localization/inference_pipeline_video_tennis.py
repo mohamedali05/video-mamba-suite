@@ -155,8 +155,8 @@ def add_text(frame, text, frame_number, font_scale , add_frame_number):
 
 def main(create_json, create_english_video = None, create_french_video = None , add_frame_number = None) :
     #model_path = './ckpt_tennis/2024-07-08_16-51-19_best_params_3_classes' #path to the model
-    features_path = os.path.join('our_dataset', 'game_features')
-    videos_path = os.path.join('our_dataset', 'game_videos')
+    features_path = os.path.join('our_dataset','test_set', 'game_features')
+    videos_path = os.path.join('our_dataset','test_set','game_videos')
     model_path = './ckpt_tennis/2024-06-25_13-27-21_3_classes_no_other_between_2_exch'  #path to the model
     config_path = os.path.join(model_path, 'config.txt')
     ckpt_path = os.path.join(model_path,'model_best.pth.tar')

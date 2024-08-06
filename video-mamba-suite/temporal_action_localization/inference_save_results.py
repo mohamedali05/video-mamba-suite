@@ -32,8 +32,8 @@ import numpy as np
 from libs.modeling import make_meta_arch
 
 def main() :
-    features_path = os.path.join('our_dataset', 'game_features')
-    videos_path = os.path.join('our_dataset', 'game_videos')
+    features_path = os.path.join('our_dataset','test_set', 'game_features')
+    videos_path = os.path.join('our_dataset','test_set','game_videos')
     model_path = './ckpt_tennis/2024-07-08_16-51-19_best_params_3_classes'  # path to the model
     config_path = os.path.join(model_path, 'config.txt')
     ckpt_path = os.path.join(model_path, 'model_best.pth.tar')

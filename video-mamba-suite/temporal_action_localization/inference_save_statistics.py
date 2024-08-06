@@ -55,7 +55,7 @@ def main() :
     model.load_state_dict(checkpoint['state_dict'] )
     # Configure out here the dataset that we want to test out and the feature folder
     cfg['dataset']['json_file'] =  './data/Tennis/annotations/All_test_games_ground_truth.json'
-    cfg['dataset']['feat_folder'] = './our_dataset/game_features'
+    cfg['dataset']['feat_folder'] =  os.path.join('our_dataset','test_set', 'game_features')
     output_folder_directory = os.path.join('results', 'Results_test_set')
 
     val_dataset = make_dataset(

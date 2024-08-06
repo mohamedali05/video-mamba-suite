@@ -68,7 +68,7 @@ def main() :
     checkpoint = torch.load('./ckpt_thumos/mamba_thumos_new_mamba_thumos_2_0.0001/model_best.pth.tar',
                             map_location=lambda storage, loc: storage.cuda('cuda:0'))
     model.load_state_dict(checkpoint['state_dict'])
-    current_num_classes = cfg['dataset']['num_classes']
+    current_num_classes = 11
     # Adjust state_dicts
     checkpoint['state_dict_ema'] = adjust_state_dict(checkpoint['state_dict_ema'], current_num_classes)
     checkpoint['state_dict'] = adjust_state_dict(checkpoint['state_dict'], current_num_classes)

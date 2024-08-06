@@ -77,7 +77,9 @@ For instance, THUMOS-14 InternVideo-6B feature:
 ```bash
 cd thumos14_internvideo2_6b_w16_s4
 cat thumos14_internvideo2_6b_w16_s4.part* > thumos14_internvideo2_6b_w16_s4.tar.gz
-tar xvf thumos14_internvideo2_6b_w16_s4.tar.gz
+tar xvf thumos14_
+
+internvideo2_6b_w16_s4.tar.gz
 ```
 
 ### 3. Modify the `feat_folder` field in each config file
@@ -97,9 +99,19 @@ The ANet & HACS features are extracted from Video_MAE models pretrained on Kinet
 bash run_all_thumos_mamba.sh
 bash run_all_anet_mamba.sh
 bash run_all_hacs_mamba.sh
+bash run_all_tennis_mamba.sh
 bash run_all_fineaction_mamba.sh
 ```
 
+## Models pre-trained
+You can find all the pre-trained models in the link down below : 
+https://drive.google.com/drive/u/0/folders/1FAqtTXz8872htZCWX8QADQhrvOeDOO3C
+Please put those in the correct ckpt folder (ckpt_tennis or ckpt_thumos)
+
+## Add on the original video-mamba
+
+From the forked video-mamba-suite we added an implementation on a tennis dataset.
+We also added video-visualisation, inference and statics to better understand the models used
 
 
 
