@@ -190,7 +190,7 @@ class ANETdetection(object):
                 tiou_thresholds=self.tiou_thresholds,
             ) for label_name, cidx in self.activity_index.items())
 
-        print(f' IoU thresholds : {self.tiou_thresholds}')
+        #print(f' IoU thresholds : {self.tiou_thresholds}')
 
         #print(results)
 
@@ -321,7 +321,7 @@ def compute_average_precision_detection(
 
     npos = float(len(ground_truth))
 
-    print(f'annotation : {npos} ')
+    #print(f'annotation : {npos} ')
     lock_gt = np.ones((len(tiou_thresholds),len(ground_truth))) * -1
 
 

@@ -6,3 +6,7 @@
 
 # Ignore all .tar files
 *.tar
+
+# Ignore all zone identifiers files
+*Zone.Identifier
+

@@ -162,7 +162,7 @@ def main(create_json, create_english_video = None, create_french_video = None , 
     ckpt_path = os.path.join(model_path,'model_best.pth.tar')
     cfg = load_config_from_txt(config_path)
 
-    output_dir = os.path.join("output")
+    output_dir = os.path.join("videos_annotated_inference")
     os.makedirs(output_dir, exist_ok=True)
     output_file_path = os.path.join(output_dir,  'annotations.json')
 
@@ -183,7 +183,10 @@ def main(create_json, create_english_video = None, create_french_video = None , 
                        "SERVICE",
           "ECHANGE"]
     else :
-        Annotations = ["PHASE DE NON-JEU",
+
+        Annotations = ["OTH", "SFI", "SFF", "SFL", "SNI", "SNF", "SNL", "HFL", "HFR", "HNL", "HNR"]
+        '''
+        Annotations = ["OTH",
                        "SERVICE",
                        "Service fautif du joueur éloigné de la caméra",
                        "Service avec let (rencontre du filet) du joueur éloigné de la caméra",
@@ -194,6 +197,7 @@ def main(create_json, create_english_video = None, create_french_video = None , 
                        "ECHANGE ",
                        "ECHANGE ",
                        "ECHANGE "]
+        '''
 
 
 
@@ -223,10 +227,6 @@ def main(create_json, create_english_video = None, create_french_video = None , 
         feats = torch.from_numpy(np.ascontiguousarray(feats.transpose()))
         data = [{'video_id' : video_id , 'feats' : feats , 'fps' : fps  , 'duration' : duration , 'feat_stride' : feat_stride , 'feat_num_frames' : feat_num_frames}]
         features.append(data)
-
-
-
-
 
     # switch to evaluate mode
     model.eval()

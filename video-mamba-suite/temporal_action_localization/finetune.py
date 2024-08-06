@@ -1,21 +1,14 @@
+
+
+
+"""
+This script fine-tunes a pre-trained video action localization model
+on the Thumos dataset for a new dataset (the tennis dataset) with a different number of classes.
+"""
+
 # python imports
-import argparse
-import os
-import time
-import datetime
-from pprint import pprint
-
-# torch imports
-import torch
-import torch.nn as nn
 import torch.utils.data
-# for visualization
-from torch.utils.tensorboard import SummaryWriter
-
-# our code
 from libs.core import load_config
-from libs.datasets import make_dataset, make_data_loader
-from torchsummary import summary
 from libs.modeling import make_meta_arch
 from libs.utils import (train_one_epoch, valid_one_epoch, ANETdetection,
                         save_checkpoint, make_optimizer, make_scheduler,
@@ -30,36 +23,18 @@ import torch.nn.functional as F
 # Assuming load_config and make_meta_arch functions are defined elsewhere in your codebase
 
 
+def adjust_state_dict(state_dict, num_classes):
+    conv_weight = state_dict['module.cls_head.cls_head.conv.weight']
+    conv_bias = state_dict['module.cls_head.cls_head.conv.bias']
 
-'''
-# Load the config
-cfg = load_config('./configs/mamba_thumos_new.yaml')
-
-# Create the model
-model = make_meta_arch(cfg['model_name'], **cfg['model'])
-model = nn.DataParallel(model, device_ids=cfg['devices'])
-
-# Load the checkpoint
-checkpoint_path = './ckpt_thumos/mamba_thumos_new_mamba_thumos_2_0.0001/model_best.pth.tar'
-checkpoint = torch.load(checkpoint_path, map_location=lambda storage, loc: storage.cuda('cuda:0'))
-
-# Load the state dictionary into the model
-model.load_state_dict(checkpoint['state_dict'])
-
-# Print the model architecture
-print(model)
-print('####################################')
-# Extract the module from DataParallel
-model = model.module
-
-print(model)
-
-
-
-# If necessary, provide further information about the preprocessing function
-
-
-'''
+    if conv_weight.shape[0] != num_classes:
+        state_dict['module.cls_head.cls_head.conv.weight'] = torch.nn.functional.pad(
+            conv_weight[:num_classes], (0, 0, 0, 0, 0, max(0, num_classes - conv_weight.shape[0]))
+        )
+        state_dict['module.cls_head.cls_head.conv.bias'] = torch.nn.functional.pad(
+            conv_bias[:num_classes], (0, max(0, num_classes - conv_bias.shape[0]))
+        )
+    return state_dict
 
 
 def print_model_summary(model):
@@ -80,10 +55,10 @@ def main() :
     # Create the model
     model = make_meta_arch(cfg['model_name'], **cfg['model'])
     model = nn.DataParallel(model, device_ids=cfg['devices'])
-
+    model_ema = ModelEma(model)
     num_new_classes = 11  # Change this to the desired number of classes
 
-
+    num_iters_per_epoch = cfg['loader']['batch_size']
 
     # Print the modified model architecture
     print("\nModified model architecture:\n")
@@ -93,29 +68,33 @@ def main() :
     checkpoint = torch.load('./ckpt_thumos/mamba_thumos_new_mamba_thumos_2_0.0001/model_best.pth.tar',
                             map_location=lambda storage, loc: storage.cuda('cuda:0'))
     model.load_state_dict(checkpoint['state_dict'])
+    current_num_classes = cfg['dataset']['num_classes']
+    # Adjust state_dicts
+    checkpoint['state_dict_ema'] = adjust_state_dict(checkpoint['state_dict_ema'], current_num_classes)
+    checkpoint['state_dict'] = adjust_state_dict(checkpoint['state_dict'], current_num_classes)
 
-    model = model.module
-    # Access the classification head
-    cls_head = model.cls_head.cls_head
-
-    new_cls_head = nn.Conv1d(in_channels=cls_head.conv.in_channels,
-                             out_channels=num_new_classes,
-                             kernel_size=cls_head.conv.kernel_size,
-                             stride=cls_head.conv.stride,
-                             padding=cls_head.conv.padding,
-                             bias=cls_head.conv.bias is not None)
-
-    # Replace the old classification head with the new one
-    model.cls_head.cls_head.conv = new_cls_head
+    model_ema.module.load_state_dict(checkpoint['state_dict_ema'])
 
     # Optionally, freeze all layers except the new classification head
-    for param in model.parameters():
+    for param in model.module.parameters():
         param.requires_grad = False
 
-    for param in model.cls_head.parameters():
+    for param in model.module.cls_head.parameters():
         param.requires_grad = True
+    optimizer = make_optimizer(model, cfg['opt'])
+    scheduler = make_scheduler(optimizer, cfg['opt'], num_iters_per_epoch)
 
-    print(model)
+    save_states = {
+        'epoch': 0,
+        'state_dict': model.state_dict(),
+        'scheduler': scheduler.state_dict(),
+        'optimizer': optimizer.state_dict(),
+    }
+
+    save_states['state_dict_ema'] = model_ema.module.state_dict()
+    save_checkpoint(save_states , True , file_folder= 'finetuned_model', file_name='model_finetuned.tar')
+
+
 
     # Print the model summary using a custom function
     #print_model_summary(model.module)
